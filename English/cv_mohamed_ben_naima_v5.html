@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CV — Mohamed Ben Naima</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  @page { size: A4; margin: 0; }
+  html, body { background: #ffffff; }
+  body { font-family: Arial, 'Segoe UI', Helvetica, sans-serif; color: #1a1d21; }
+  .page { width: 210mm; height: 297mm; margin: 0 auto; padding: 6.2mm 11mm 4mm; font-size: 8.9pt; line-height: 1.15; overflow: hidden; }
+
+  .header { display: flex; justify-content: space-between; align-items: flex-end; border-bottom: 2.2px solid #1a1d21; padding-bottom: 2.0mm; }
+  .name { font-size: 18pt; font-weight: 700; letter-spacing: -0.4px; line-height: 1.05; }
+  .role { font-size: 10.5pt; font-weight: 600; color: #1a5fb4; margin-top: 0.8mm; }
+  .contact { text-align: right; font-size: 8.4pt; color: #333; line-height: 1.45; }
+  .contact a { color: #1a5fb4; text-decoration: none; }
+
+  .summary { font-size: 8.7pt; padding: 1.3mm 0 1mm; border-bottom: 1px solid #d5dbe3; }
+
+  h2 { font-size: 9.3pt; text-transform: uppercase; letter-spacing: 1.1px; color: #1a5fb4; margin: 1.3mm 0 0.8mm; padding-bottom: 0.4mm; border-bottom: 1.3px solid #1a5fb4; }
+
+  .job { margin-bottom: 1.2mm; }
+  .job-head { display: flex; justify-content: space-between; align-items: baseline; }
+  .job-title { font-weight: 700; font-size: 9.4pt; }
+  .job-role { font-weight: 600; }
+  .job-date { font-size: 8.3pt; color: #555; white-space: nowrap; font-weight: 600; }
+  .job-sub { font-size: 8.5pt; color: #333; margin: 0.4mm 0 0.5mm; }
+  ul { padding-left: 0; list-style: none; }
+  li { margin-bottom: 0.2mm; padding-left: 8px; position: relative; }
+  li::before { content: "▪"; position: absolute; left: 0; top: 0; color: #1a5fb4; }
+  .proj { margin-bottom: 1.05mm; }
+
+  .proj-head { display: flex; justify-content: space-between; align-items: baseline; }
+  .proj-name { font-weight: 700; font-size: 9.4pt; }
+  .proj-date { font-size: 8.3pt; color: #555; font-weight: 600; white-space: nowrap; }
+  .proj-stack { font-size: 8.0pt; color: #555; margin-bottom: 0.4mm; }
+  .proj-desc { margin-bottom: 0.4mm; }
+
+  .edu { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 0.6mm; }
+  .edu-name { font-weight: 700; }
+  .edu-date { font-size: 8.3pt; color: #555; font-weight: 600; white-space: nowrap; }
+  .edu-detail { font-size: 8.5pt; color: #333; }
+
+  .skills { margin-top: 0.3mm; }
+  .sk { display: flex; margin-bottom: 0.3mm; }
+  .sk-cat { width: 29mm; flex-shrink: 0; font-weight: 700; color: #1a5fb4; }
+  .sk-val { flex: 1; }
+  b.k { color: #0b3d91; }
+
+  .certs { font-size: 8.5pt; line-height: 1.32; }
+  .langs { display: flex; flex-wrap: wrap; gap: 0.8mm 5mm; font-size: 8.5pt; }
+  .lead ul { margin-top: 0.3mm; }
+</style>
+</head>
+<body>
+<div class="page">
+  <div class="header">
+    <div>
+      <div class="name">Mohamed Ben Naima</div>
+      <div class="role">Full-Stack Developer · Cybersecurity &amp; Cloud Computing Engineer</div>
+    </div>
+    <div class="contact">
+      Tunisia · +216 25 577 542<br>
+      Medbennaima2021@gmail.com<br>
+      <a href="https://www.linkedin.com/in/mohamed-ben-naima/">linkedin.com/in/mohamed-ben-naima</a> · <a href="https://github.com/Mohamed-Ben-Naima">github.com/Mohamed-Ben-Naima</a> · <a href="https://mohamed-ben-naima.netlify.app/">Portfolio: mohamed-ben-naima.netlify.app</a><br>
+      English (bilingual) · French (bilingual)
+    </div>
+  </div>
+
+  <div class="summary">
+    Full-stack software engineer specialized in cybersecurity and cloud computing, shipping production systems — secure web platforms, industrial ERPs, and cloud-deployed infrastructure. Core stack: Angular, React, Python (FastAPI), Node.js, backed by SQL/NoSQL data modeling, end-to-end authentication (JWT, OAuth2, RBAC), and cloud delivery (Docker, Kubernetes, OpenStack, AWS). Now delivering a complete industrial ERP as an engineering intern while transforming my MERN e-commerce platform — built at ISIMa (graduated with highest honours) — into a multi-tenant SaaS with a richer user/admin experience and smart, user-friendly features.
+  </div>
+
+  <h2>Technical Skills</h2>
+  <div class="skills">
+    <div class="sk"><div class="sk-cat">Languages</div><div class="sk-val"><b class="k">Python</b>, JavaScript/TypeScript, Java, PHP, SQL</div></div>
+    <div class="sk"><div class="sk-cat">Frontend</div><div class="sk-val"><b class="k">Angular</b>, React, React Native, Tailwind CSS, HTML/CSS</div></div>
+    <div class="sk"><div class="sk-cat">Backend &amp; APIs</div><div class="sk-val"><b class="k">FastAPI</b>, Node.js/Express, Spring Boot, Symfony, REST, Swagger/OpenAPI</div></div>
+    <div class="sk"><div class="sk-cat">Databases</div><div class="sk-val"><b class="k">MongoDB</b>, PostgreSQL, MySQL, Oracle</div></div>
+    <div class="sk"><div class="sk-cat">Auth &amp; Security</div><div class="sk-val"><b class="k">JWT, OAuth2, RBAC</b>, Keycloak</div></div>
+    <div class="sk"><div class="sk-cat">Cloud &amp; DevOps</div><div class="sk-val"><b class="k">Docker</b>, Kubernetes, GitLab CI/CD, GitHub Actions, OpenStack, AWS, Render</div></div>
+    <div class="sk"><div class="sk-cat">Networking</div><div class="sk-val">Cisco switching, pfSense, VLANs, DNS/DHCP, Wireshark</div></div>
+    <div class="sk"><div class="sk-cat">OS</div><div class="sk-val">Ubuntu, Kali, Windows Server</div></div>
+    <div class="sk"><div class="sk-cat">Observability</div><div class="sk-val">Grafana, Prometheus, Loki, Wazuh, Kafka</div></div>
+    <div class="sk"><div class="sk-cat">Tools</div><div class="sk-val">Git, Postman, Jira, UML</div></div>
+  </div>
+
+  <h2>Experience</h2>
+
+  <div class="job">
+    <div class="job-head">
+      <div class="job-title">Software Engineering Intern — Full-Stack <span class="job-role">· Polymaille (Textile)</span></div>
+      <div class="job-date">Jul – Sep 2026 · present</div>
+    </div>
+    <div class="job-sub">Ksar Hellal, Tunisia — "Microtiss Confect" industrial ERP</div>
+    <ul>
+      <li><b>Delivered a full-cycle ERP</b> covering purchase, stock, production and sales — supplier orders, approval workflow, delivery notes, invoices and payments — one trusted source of truth across the four business cycles.</li>
+      <li><b>Designed the relational model &amp; REST API</b>, enforcing data integrity and security through role-based access control; warehouse, production and finance teams share the same data with granular permissions.</li>
+      <li><b>Owned scoping end-to-end</b> with the business lead: every module framed with the user and validated before delivery.</li>
+    </ul>
+  </div>
+
+  <div class="job">
+    <div class="job-head">
+      <div class="job-title">Full-Stack / Backend / Mobile Developer <span class="job-role">· Alfa Computers</span></div>
+      <div class="job-date">Mar 2024 – Aug 2025</div>
+    </div>
+    <div class="job-sub">Mahdia, Tunisia — 3 internships: PFE (Mar–Jun 2024), IoT mobile (Summer 2024), backend (Summer 2025)</div>
+    <ul>
+      <li><b>Built</b> "The Hive" trading platform backend, <b>serving</b> the web client through fully authenticated REST endpoints, <b>by</b> implementing FastAPI, JWT + OAuth2, OpenAPI/Swagger and Postman test suites.</li>
+      <li><b>Delivered a complete MERN e-commerce</b> solo (React, Node.js, Express, MongoDB) with JWT login, catalog, cart, customer/admin dashboards, <b>by</b> containerizing with Docker and automating deploys via GitLab CI/CD to Render.</li>
+      <li><b>Led a 3-person team</b> (2 mobile developers + 1 IoT/hardware) to ship a smart-home app (React Native + Node.js/Express) streaming live Arduino sensor data and controlling LEDs from the phone, deployed on Render.</li>
+    </ul>
+  </div>
+
+  <h2>Projects</h2>
+
+  <div class="proj">
+    <div class="proj-head">
+      <div class="proj-name">Secured Banking Infrastructure</div>
+      <div class="proj-date">2026</div>
+    </div>
+    <div class="proj-stack">GNS3 · Cisco · OpenStack · Spring Boot · Angular · Kafka · pfSense · Grafana · Prometheus · Loki · Wazuh · GitHub Actions · AWS</div>
+    <ul>
+      <li><b>Conceived a secured network architecture:</b> Cisco core switch, dual internal/external pfSense firewalls, edge router, Ubuntu server, VLAN segmentation, DNS/DHCP.</li>
+      <li><b>Deployed a microservices banking app</b> (Spring Boot, Angular, Kafka — one database per service) on an OpenStack private cloud inside GNS3; CI/CD (JAR → server auto-deploy) plus an AWS golden-image → OpenStack VM pipeline.</li>
+      <li><b>Observability</b> with Grafana, Prometheus, Loki, Wazuh; KYC module in JWT/RBAC. <b>Nominated, ESPRIT Projects Ball.</b></li>
+    </ul>
+  </div>
+
+  <div class="proj">
+    <div class="proj-head">
+      <div class="proj-name">Hermes Suite — E-commerce Platform (MERN)</div>
+      <div class="proj-date">2024 – present</div>
+    </div>
+    <div class="proj-stack">React · Node.js · Express · MongoDB Atlas · Render · Netlify</div>
+    <div class="proj-desc">Full MERN e-commerce platform — product catalogue, cart, checkout, orders, PDF invoices — built at ISIMa, now being matured into a multi-tenant SaaS with an enhanced user/admin experience and smart, user-friendly features.</div>
+  </div>
+
+  <div class="proj">
+    <div class="proj-head">
+      <div class="proj-name">MiraviaSpace — Travel &amp; Social Platform <span style="color:#555;font-weight:600;">(team of 6)</span></div>
+      <div class="proj-date">2025</div>
+    </div>
+    <div class="proj-stack">Symfony · Oracle · JavaFX · In-house AI chatbot (MiraBot)</div>
+    <div class="proj-desc">Owned the entire client side: account creation/login, client dashboard, search across flights/hotels/cars/offers, and local-immersion flows (volunteering, events, activities). <b>Runner-up, ESPRIT Projects Ball.</b></div>
+  </div>
+
+  <div class="proj">
+    <div class="proj-head">
+      <div class="proj-name">Windows Server &amp; Network Services Lab <span style="color:#555;font-weight:600;">(academic)</span></div>
+      <div class="proj-date">2026</div>
+    </div>
+    <div class="proj-stack">Windows Server · Active Directory · Kerberos</div>
+    <div class="proj-desc">Configured Windows Server roles — FTP, DNS, DHCP — with Kerberos-based authentication/authorization and granular file permissions.</div>
+  </div>
+
+  <h2>Education</h2>
+  <div class="edu">
+    <div><span class="edu-name">ESPRIM Monastir</span> — Engineering Degree, Cybersecurity &amp; Cloud Computing <span class="edu-detail">· top of class</span></div>
+    <div class="edu-date">2024 – present</div>
+  </div>
+  <div class="edu">
+    <div><span class="edu-name">ISIMa Mahdia</span> — BSc, Software Engineering <span class="edu-detail">· with highest honours</span></div>
+    <div class="edu-date">2021 – 2024</div>
+  </div>
+  <div class="edu">
+    <div><span class="edu-name">Lycée Tahar Sfar, Mahdia</span> — Baccalauréat in Mathematics</div>
+    <div class="edu-date">2021 – 2022</div>
+  </div>
+
+  <h2>Certifications</h2>
+  <div class="certs">
+    CLLMSP &amp; CRTOM (Red Team Leaders, 2026) · Cisco CCNA 200-301 (in progress) · Full-Stack MERN (100h) · Building AI Agents (DeepLearning.AI) · n8n Workflow Automation
+  </div>
+
+  <h2>Languages</h2>
+  <div class="langs">
+    <span><b>Arabic</b> — native</span>
+    <span><b>French</b> — bilingual</span>
+    <span><b>English</b> — bilingual</span>
+    <span><b>German</b> — basic</span>
+  </div>
+
+  <h2>Leadership &amp; Beyond Work</h2>
+  <div class="lead">
+    <ul>
+      <li>Co-founded <b>Hunters Club</b> (20+ members) — CTFs across Tunisia; 2nd &amp; 4th place at Polytech Sousse CTF; ambassador for CyberSphere Congress (Hammamet, 7th ed.); ran an n8n automation workshop for students.</li>
+      <li>Led the Cyber &amp; Cloud committee at <b>DevTalents</b> (30+ members) — organized an LPIC-1 preparation session</li>
+      <li><b>2nd place</b>, Clean &amp; Green hackathon 2025 — regular participant in hackathons across Tunisia (incl. AGEOS)</li>
+      <li>Former lifeguard (Mouradi hotel), barista, waiter and construction worker — teamwork and calm under pressure</li>
+    </ul>
+  </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,69 @@
+Mohamed Ben Naima
+Développeur Full-Stack | Ingénieur Cybersécurité & Cloud Computing
+Tunisie | +216 25 577 542 | Medbennaima2021@gmail.com | LinkedIn: linkedin.com/in/mohamed-ben-naima | GitHub: github.com/Mohamed-Ben-Naima | Portfolio: mohamed-ben-naima.netlify.app | Anglais (bilingue) | Français (bilingue)
+
+PROFIL
+Ingénieur full-stack spécialisé en cybersécurité et cloud computing, livrant des systèmes de production - plateformes web sécurisées, ERP industriels et infrastructure déployée sur le cloud. Stack de base : Angular, React, Python (FastAPI), Node.js, appuyée sur la modélisation de données SQL/NoSQL, l'authentification de bout en bout (JWT, OAuth2, RBAC) et la livraison cloud (Docker, Kubernetes, OpenStack, AWS). Actuellement en train de livrer un ERP industriel complet en tant que stagiaire ingénieur, tout en transformant ma plateforme e-commerce MERN - développée à l'ISIMa (diplômé avec félicitations du jury) - en SaaS multi-tenant avec une expérience utilisateur/admin enrichie et des fonctionnalités intelligentes et conviviales.
+
+COMPETENCES TECHNIQUES
+Langages : Python, JavaScript/TypeScript, Java, PHP, SQL
+Frontend : Angular, React, React Native, Tailwind CSS, HTML/CSS
+Backend & APIs : FastAPI, Node.js/Express, Spring Boot, Symfony, REST, Swagger/OpenAPI
+Bases de données : MongoDB, PostgreSQL, MySQL, Oracle
+Auth & Sécurité : JWT, OAuth2, RBAC, Keycloak
+Cloud & DevOps : Docker, Kubernetes, GitLab CI/CD, GitHub Actions, OpenStack, AWS, Render
+Réseau : Commutation Cisco, pfSense, VLANs, DNS/DHCP, Wireshark
+Systèmes d'exploitation : Ubuntu, Kali, Windows Server
+Observabilité : Grafana, Prometheus, Loki, Wazuh, Kafka
+Outils : Git, Postman, Jira, UML
+
+EXPERIENCE PROFESSIONNELLE
+
+Stagiaire Ingénieur Logiciel - Full-Stack, Polymaille (Industrie Textile), Ksar Hellal, Tunisie
+juil. - sept. 2026 (en cours)
+- Livré un ERP complet (Microtiss Confect) couvrant achat, stock, production et vente - commandes fournisseurs, workflow d'approbation, bons de livraison, factures et paiements - une source de vérité unique sur quatre cycles métier.
+- Conçu le modèle relationnel et l'API REST, en garantissant l'intégrité et la sécurité des données via le contrôle d'accès basé sur les rôles (RBAC) ; les équipes entrepôt, production et finance partagent les mêmes données avec des permissions granulaires.
+- Géré le cadrage de bout en bout avec le responsable métier : chaque module cadré avec l'utilisateur et validé avant livraison.
+
+Développeur Full-Stack / Backend / Mobile, Alfa Computers, Mahdia, Tunisie
+Mars 2024 - Août 2025 (PFE, IoT mobile, stages backend)
+- Développé le backend de la plateforme de trading "The Hive", servant le client web via des endpoints REST entièrement authentifiés, en implémentant FastAPI (Python), JWT + OAuth2, OpenAPI/Swagger et des suites de tests Postman.
+- Livré un e-commerce MERN complet en solo (React, Node.js, Express, MongoDB) avec connexion JWT, catalogue, panier, tableaux de bord client/admin, en containerisant avec Docker et automatisant les déploiements via GitLab CI/CD vers Render.
+- Mené une équipe de 3 personnes (2 développeurs mobile + 1 IoT/hardware) pour livrer une application smart-home (React Native + Node.js/Express) diffusant les données en direct des capteurs Arduino et contrôlant les LEDs depuis le téléphone, déployée sur Render.
+
+PROJETS
+
+Infrastructure Bancaire Sécurisée (2026)
+GNS3 | Cisco | OpenStack | Spring Boot | Angular | Kafka | pfSense | Grafana | Prometheus | Loki | Wazuh | GitHub Actions | AWS
+- Conçu une architecture réseau sécurisée : commutateur cœur Cisco, double pare-feu pfSense interne/externe, routeur périphérique, serveur Ubuntu, segmentation VLAN, DNS/DHCP.
+- Déployé une application bancaire en microservices (Spring Boot, Angular, Kafka - une base de données par service) sur un cloud privé OpenStack dans GNS3 ; CI/CD (déploiement auto JAR vers serveur) plus un pipeline d'image dorée AWS vers VM OpenStack.
+- Observabilité avec Grafana, Prometheus, Loki, Wazuh ; module KYC en JWT/RBAC. Nominé, ESPRIT Projects Ball.
+
+Hermes Suite - Plateforme E-commerce (MERN) (2024 - présent)
+React | Node.js | Express | MongoDB Atlas | Render | Netlify
+Plateforme e-commerce MERN complète - catalogue de produits, panier, paiement, commandes, factures PDF - développée à l'ISIMa, actuellement en maturation vers un SaaS multi-tenant avec une expérience utilisateur/admin améliorée et des fonctionnalités intelligentes et conviviales.
+
+MiraviaSpace - Plateforme Voyage et Social, équipe de 6 (2025)
+Symfony | Oracle | JavaFX | Chatbot IA maison (MiraBot)
+Pris en charge l'ensemble du côté client : création de compte/connexion, tableau de bord client, recherche vols/hôtels/voitures/offres, et parcours d'immersion locale (bénévolat, événements, activités). Finaliste, ESPRIT Projects Ball.
+
+Lab Windows Server et Services Réseau (académique, 2026)
+Windows Server | Active Directory | Kerberos
+Configuré les rôles Windows Server - FTP, DNS, DHCP - avec authentification/autorisation basée sur Kerberos et permissions de fichiers granulaires.
+
+FORMATION
+ESPRIM Monastir - Diplôme d'Ingénieur, Cybersécurité & Cloud Computing (2024 - présent) - major de promotion
+ISIMa Mahdia - Licence, Génie Logiciel (2021 - 2024) - avec félicitations du jury
+Lycée Tahar Sfar, Mahdia - Baccalauréat en Mathématiques (2021 - 2022)
+
+CERTIFICATIONS
+CLLMSP et CRTOM (Red Team Leaders, 2026) | Cisco CCNA 200-301 (en cours) | Full-Stack MERN (100h) | Building AI Agents (DeepLearning.AI) | n8n Workflow Automation
+
+LANGUES
+Arabe - langue maternelle | Français - bilingue | Anglais - bilingue | Allemand - notions
+
+LEADERSHIP & CENTRES D'INTERET
+- Co-fondé le Hunters Club (20+ membres) - CTFs à travers la Tunisie ; 2e et 4e place au CTF de Polytech Sousse ; ambassadeur du CyberSphere Congress (Hammamet, 7e édition) ; animé un atelier d'automatisation n8n pour les étudiants.
+- Dirigé le comité Cyber & Cloud chez DevTalents (30+ membres) - organisé une session de préparation LPIC-1
+- 2e place, hackathon Clean & Green 2025 - participation régulière aux hackathons en Tunisie (dont AGEOS)
+- Ancien maître-nageur (hôtel Mouradi), barista, serveur et ouvrier du bâtiment - esprit d'équipe et sang-froid sous pression
