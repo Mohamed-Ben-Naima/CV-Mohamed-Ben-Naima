@@ -3,7 +3,7 @@ Full-Stack Developer | Cybersecurity & Cloud Computing Engineer
 Tunisia | +216 25 577 542 | Medbennaima2021@gmail.com | LinkedIn: linkedin.com/in/mohamed-ben-naima | GitHub: github.com/Mohamed-Ben-Naima | Portfolio: mohamed-ben-naima.netlify.app | English (bilingual) | French (bilingual)
 
 PROFILE
-Full-stack software engineer specialized in cybersecurity and cloud computing, shipping production systems - secure web platforms, industrial ERPs, and cloud-deployed infrastructure. Core stack: Angular, React, Python (FastAPI), Node.js, backed by SQL/NoSQL data modeling, end-to-end authentication (JWT, OAuth2, RBAC), and cloud delivery (Docker, Kubernetes, OpenStack, AWS). Now delivering a complete industrial ERP as an engineering intern while transforming my MERN e-commerce platform - built at ISIMa (graduated with highest honours) - into a multi-tenant SaaS with a richer user/admin experience and smart, user-friendly features.
+Full-stack software engineer specialized in cybersecurity and cloud computing, building production-grade systems - secure web platforms, industrial ERPs, and cloud-deployed infrastructure. Core stack: Angular, React, Python (FastAPI), Node.js, backed by SQL/NoSQL data modeling, end-to-end authentication (JWT, OAuth2, RBAC), and cloud delivery (Docker, Kubernetes, OpenStack, AWS). Now building a complete industrial ERP as an engineering intern while transforming my MERN e-commerce platform - built at ISIMa (graduated with highest honours) - into a multi-tenant SaaS with a richer user/admin experience and smart, user-friendly features.
 
 TECHNICAL SKILLS
 Languages: Python, JavaScript/TypeScript, Java, PHP, SQL
@@ -21,7 +21,7 @@ EXPERIENCE
 
 Software Engineering Intern - Full-Stack, Polymaille (Textile Industry), Ksar Hellal, Tunisia
 Jul - Sep 2026 (present)
-- Delivered a full-cycle ERP (Microtiss Confect) covering purchase, stock, production and sales - supplier orders, approval workflow, delivery notes, invoices and payments - one trusted source of truth across four business cycles.
+- Building a full-cycle ERP (Microtiss Confect) covering purchase, stock, production and sales - supplier orders, approval workflow, delivery notes, invoices and payments - one trusted source of truth across four business cycles, with deployment in progress on a team-configured Windows Server.
 - Designed the relational model and REST API, enforcing data integrity and security through role-based access control (RBAC); warehouse, production and finance teams share the same data with granular permissions.
 - Owned scoping end-to-end with the business lead: every module framed with the user and validated before delivery.
 

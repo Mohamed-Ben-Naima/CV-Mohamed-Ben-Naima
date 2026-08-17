@@ -3,7 +3,7 @@ Développeur Full-Stack | Ingénieur Cybersécurité & Cloud Computing
 Tunisie | +216 25 577 542 | Medbennaima2021@gmail.com | LinkedIn: linkedin.com/in/mohamed-ben-naima | GitHub: github.com/Mohamed-Ben-Naima | Portfolio: mohamed-ben-naima.netlify.app | Anglais (bilingue) | Français (bilingue)
 
 PROFIL
-Ingénieur full-stack spécialisé en cybersécurité et cloud computing, livrant des systèmes de production - plateformes web sécurisées, ERP industriels et infrastructure déployée sur le cloud. Stack de base : Angular, React, Python (FastAPI), Node.js, appuyée sur la modélisation de données SQL/NoSQL, l'authentification de bout en bout (JWT, OAuth2, RBAC) et la livraison cloud (Docker, Kubernetes, OpenStack, AWS). Actuellement en train de livrer un ERP industriel complet en tant que stagiaire ingénieur, tout en transformant ma plateforme e-commerce MERN - développée à l'ISIMa (diplômé avec félicitations du jury) - en SaaS multi-tenant avec une expérience utilisateur/admin enrichie et des fonctionnalités intelligentes et conviviales.
+Ingénieur full-stack spécialisé en cybersécurité et cloud computing, livrant des systèmes robustes - plateformes web sécurisées, ERP industriels et infrastructure déployée sur le cloud. Stack de base : Angular, React, Python (FastAPI), Node.js, appuyée sur la modélisation de données SQL/NoSQL, l'authentification de bout en bout (JWT, OAuth2, RBAC) et la livraison cloud (Docker, Kubernetes, OpenStack, AWS). Actuellement en train de développer un ERP industriel complet en tant que stagiaire ingénieur, tout en transformant ma plateforme e-commerce MERN - développée à l'ISIMa (diplômé avec félicitations du jury) - en SaaS multi-tenant avec une expérience utilisateur/admin enrichie et des fonctionnalités intelligentes et conviviales.
 
 COMPETENCES TECHNIQUES
 Langages : Python, JavaScript/TypeScript, Java, PHP, SQL
@@ -21,7 +21,7 @@ EXPERIENCE PROFESSIONNELLE
 
 Stagiaire Ingénieur Logiciel - Full-Stack, Polymaille (Industrie Textile), Ksar Hellal, Tunisie
 juil. - sept. 2026 (en cours)
-- Livré un ERP complet (Microtiss Confect) couvrant achat, stock, production et vente - commandes fournisseurs, workflow d'approbation, bons de livraison, factures et paiements - une source de vérité unique sur quatre cycles métier.
+- Développé un ERP complet (Microtiss Confect) couvrant achat, stock, production et vente - commandes fournisseurs, workflow d'approbation, bons de livraison, factures et paiements - une source de vérité unique sur quatre cycles métier, avec un déploiement en préparation sur un serveur Windows configuré par l'équipe.
 - Conçu le modèle relationnel et l'API REST, en garantissant l'intégrité et la sécurité des données via le contrôle d'accès basé sur les rôles (RBAC) ; les équipes entrepôt, production et finance partagent les mêmes données avec des permissions granulaires.
 - Géré le cadrage de bout en bout avec le responsable métier : chaque module cadré avec l'utilisateur et validé avant livraison.
 
