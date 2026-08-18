@@ -1,0 +1,64 @@
+Mohamed Ben Naima
+Software Engineering Student - Java · Python · Distributed & High-Performance Systems
+Tunisia | +216 25 577 542 | Medbennaima2021@gmail.com | LinkedIn: linkedin.com/in/mohamed-ben-naima | GitHub: github.com/Mohamed-Ben-Naima | Portfolio: mohamed-ben-naima.netlify.app | English (bilingual) | French (bilingual)
+
+PROFILE
+Final-year software engineering student (graduating June 2027) focused on backend, distributed and high-performance systems, with hands-on experience in Java, Python and TypeScript. As a software engineering intern I am building a full-cycle industrial ERP (Spring Boot Modulith) - designing domain models, REST APIs, event-driven decoupling, caching for performance, and OAuth2/RBAC. Previously built a trading-platform backend and a microservices banking architecture with Kafka, Docker, CI/CD and observability. Strong in data structures, algorithms and object-oriented design; competitive problem solver (CTFs, hackathons). Highly motivated to apply engineering skills to financial markets and real-time trading technology; open to relocating to Amsterdam for a 2027 internship and to joining full-time after graduation.
+
+TECHNICAL SKILLS
+Programming Languages: Java, Python, TypeScript/JavaScript, PHP, SQL
+Data Structures & Algorithms: arrays, linked lists, trees, graphs, hash maps, recursion, Big-O analysis, competitive problem solving
+Object-Oriented Design: SOLID principles, design patterns, clean code, modular monolith & microservice architecture
+Distributed Systems & Eventing: Kafka, event-driven architecture, Spring Modulith application events, Redis, Caffeine
+Backend & API Development: Spring Boot, FastAPI, Node.js/Express, REST, OpenAPI/Swagger
+Databases: MySQL, PostgreSQL, MongoDB, data modeling
+Systems & Networking: Linux, Windows Server, TCP/IP, VLANs, DNS/DHCP, Cisco (CCNA in progress)
+Cloud & DevOps: AWS, OpenStack, Docker, Kubernetes, GitLab CI/CD, GitHub Actions, Render
+Testing & Observability: Postman test suites, Grafana, Prometheus, Loki, Wazuh
+Tools: Git, Jira, UML
+
+WORK EXPERIENCE
+
+Software Engineering Intern - Full-Stack, Polymaille (Textile Industry), Ksar Hellal, Tunisia
+July - September 2026 (present)
+- Building a full-cycle industrial ERP as a Spring Boot Modulith: five domain modules sealed behind API boundaries, decoupled via application events (event-driven architecture); own the Stock & Sales modules end-to-end - domain model, event flows, REST APIs.
+- Implementing OAuth2/JWT + RBAC (Keycloak), MySQL (Aiven), Redis + Caffeine caching for performance, OpenAPI/Swagger and PDF invoicing with an Angular + Tailwind frontend; deployment in progress on a Windows Server we configured.
+- Working in a 2-person team alongside the Purchasing & Production owner; documenting every module with the business lead before delivery.
+
+Backend / Full-Stack Developer, Alfa Computers, Mahdia, Tunisia
+March 2024 - August 2025 (PFE, backend, IoT mobile)
+- Built a trading-platform backend with authenticated REST endpoints (FastAPI, JWT + OAuth2, OpenAPI/Swagger, Postman test suites) - strong interest in financial markets and trading systems.
+- Delivered a MERN e-commerce solo (React, Node.js, Express, MongoDB) - Dockerized, GitLab CI/CD, deployed on Render.
+- Led a 3-person team shipping a smart-home app streaming live Arduino sensor data (React Native + Node.js/Express).
+
+PROJECTS
+Secured Banking Infrastructure (2026) - GNS3, Cisco, OpenStack, Spring Boot, Angular, Kafka, pfSense, Wazuh, Grafana, Prometheus, Loki, GitHub Actions, AWS
+- Deployed a microservices banking app (Spring Boot, Angular, Kafka - one database per service) on an OpenStack private cloud; CI/CD auto-deploy + AWS golden-image pipeline; observability stack; KYC module in JWT/RBAC. Nominated, ESPRIT Projects Ball.
+
+Hermes - MERN E-commerce Platform (2024 - present) - React, Node.js, Express, MongoDB, Docker, Render
+- JWT authentication, customer/admin dashboards and PDF invoices; being matured into a multi-tenant SaaS.
+
+Windows Server & Network Services Lab (2026) - Active Directory, Kerberos
+- Configured Windows Server roles (FTP, DNS, DHCP) with Kerberos authentication and granular file permissions - systems administration and operations.
+
+INTERESTS
+Financial markets, algorithmic trading, low-latency and high-performance systems, clean code and software architecture, competitive programming, security.
+
+EDUCATION
+ESPRIM Monastir - Engineering Degree, Cybersecurity & Cloud Computing (2024 - 2027) - top of class - graduating June 2027
+ISIMa Mahdia - BSc, Software Engineering (2021 - 2024) - with highest honours
+Lycée Tahar Sfar, Mahdia - Baccalauréat in Mathematics (2021 - 2022)
+
+CERTIFICATIONS
+Cisco CCNA 200-301 (in progress) | CLLMSP & CRTOM (Red Team Leaders) | Building AI Agents (DeepLearning.AI) | n8n Workflow Automation
+
+LANGUAGES
+Arabic - native | French - bilingual | English - bilingual | German - basic
+
+LEADERSHIP
+- Co-founded Hunters Club (20+ members) - competitive CTFs across Tunisia; 2nd & 4th place, Polytech Sousse CTF.
+- Led the Cyber & Cloud committee at DevTalents (30+ members) - organized an LPIC-1 preparation session.
+- 2nd place, Clean & Green hackathon 2025 - regular hackathon participant (incl. AGEOS).
+
+AVAILABILITY
+Available full-time for a 10-week internship in Amsterdam (2027); prepared to begin full-time work after graduation (June 2027).
