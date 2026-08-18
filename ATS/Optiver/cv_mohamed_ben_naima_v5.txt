@@ -1,18 +1,19 @@
 Mohamed Ben Naima
-Software Engineering Student - Java · Python · Distributed & High-Performance Systems
+Graduate Software Engineer - Java · Python · Distributed & High-Performance Systems
 Tunisia | +216 25 577 542 | Medbennaima2021@gmail.com | LinkedIn: linkedin.com/in/mohamed-ben-naima | GitHub: github.com/Mohamed-Ben-Naima | Portfolio: mohamed-ben-naima.netlify.app | English (bilingual) | French (bilingual)
 
 PROFILE
-Final-year software engineering student (graduating June 2027) focused on backend, distributed and high-performance systems, with hands-on experience in Java, Python and TypeScript. As a software engineering intern I am building a full-cycle industrial ERP (Spring Boot Modulith) - designing domain models, REST APIs, event-driven decoupling, caching for performance, and OAuth2/RBAC. Previously built a trading-platform backend and a microservices banking architecture with Kafka, Docker, CI/CD and observability. Strong in data structures, algorithms and object-oriented design; competitive problem solver (CTFs, hackathons). Highly motivated to apply engineering skills to financial markets and real-time trading technology; open to relocating to Amsterdam for a 2027 internship and to joining full-time after graduation.
+Graduate software engineer, graduating June 2027 (within the August 2024 - August 2027 graduate window), focused on backend, distributed and high-performance systems used in real-time markets. As a software engineering intern I am building a full-cycle industrial ERP (Spring Boot Modulith) - designing domain models, REST APIs, event-driven decoupling, caching for performance, and OAuth2/RBAC. Previously built a trading-platform backend and a microservices banking architecture with Kafka, Docker, CI/CD and observability. Solid grasp of algorithms, data structures, object-oriented design, operating systems, concurrency and relational databases; competitive problem solver (CTFs, hackathons). Highly motivated to engineer simple, well-architected solutions for capital markets; available for a full-time Graduate Software Engineer role in London after graduation (June 2027), open to relocation and visa sponsorship.
 
 TECHNICAL SKILLS
 Programming Languages: Java, Python, TypeScript/JavaScript, PHP, SQL
-Data Structures & Algorithms: arrays, linked lists, trees, graphs, hash maps, recursion, Big-O analysis, competitive problem solving
+Algorithms & Data Structures: arrays, linked lists, trees, graphs, hash maps, recursion, Big-O analysis, competitive problem solving
 Object-Oriented Design: SOLID principles, design patterns, clean code, modular monolith & microservice architecture
+Operating Systems & Concurrency: Linux, Windows Server, processes & threads, memory management, locking (coursework); computer-architecture fundamentals (coursework)
 Distributed Systems & Eventing: Kafka, event-driven architecture, Spring Modulith application events, Redis, Caffeine
+Relational Databases: MySQL, PostgreSQL, SQL, normalization, transactions, indexing, data modeling
 Backend & API Development: Spring Boot, FastAPI, Node.js/Express, REST, OpenAPI/Swagger
-Databases: MySQL, PostgreSQL, MongoDB, data modeling
-Systems & Networking: Linux, Windows Server, TCP/IP, VLANs, DNS/DHCP, Cisco (CCNA in progress)
+Networking: TCP/IP, VLANs, DNS/DHCP, Cisco (CCNA in progress), GNS3
 Cloud & DevOps: AWS, OpenStack, Docker, Kubernetes, GitLab CI/CD, GitHub Actions, Render
 Testing & Observability: Postman test suites, Grafana, Prometheus, Loki, Wazuh
 Tools: Git, Jira, UML
@@ -41,9 +42,6 @@ Hermes - MERN E-commerce Platform (2024 - present) - React, Node.js, Express, Mo
 Windows Server & Network Services Lab (2026) - Active Directory, Kerberos
 - Configured Windows Server roles (FTP, DNS, DHCP) with Kerberos authentication and granular file permissions - systems administration and operations.
 
-INTERESTS
-Financial markets, algorithmic trading, low-latency and high-performance systems, clean code and software architecture, competitive programming, security.
-
 EDUCATION
 ESPRIM Monastir - Engineering Degree, Cybersecurity & Cloud Computing (2024 - 2027) - top of class - graduating June 2027
 ISIMa Mahdia - BSc, Software Engineering (2021 - 2024) - with highest honours
@@ -61,4 +59,4 @@ LEADERSHIP
 - 2nd place, Clean & Green hackathon 2025 - regular hackathon participant (incl. AGEOS).
 
 AVAILABILITY
-Available full-time for a 10-week internship in Amsterdam (2027); prepared to begin full-time work after graduation (June 2027).
+Available immediately after graduation (June 2027) for a full-time Graduate Software Engineer role in London; open to relocation and visa sponsorship.

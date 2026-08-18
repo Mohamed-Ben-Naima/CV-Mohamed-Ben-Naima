@@ -9,7 +9,7 @@ Current, print-ready CVs plus the editable sources (HTML) and ATS text versions.
 | French | [`French/cv_mohamed_ben_naima_v5_fr.pdf`](French/cv_mohamed_ben_naima_v5_fr.pdf) | [`ATS/FR/cv_mohamed_ben_naima_v5.pdf`](ATS/FR/cv_mohamed_ben_naima_v5.pdf) | [`French/cv_mohamed_ben_naima_v5_fr.html`](French/cv_mohamed_ben_naima_v5_fr.html) |
 | GRC (EN) | — | [`ATS/GRC/cv_mohamed_ben_naima_v5.pdf`](ATS/GRC/cv_mohamed_ben_naima_v5.pdf) | [`ATS/GRC/cv_mohamed_ben_naima_v5.docx`](ATS/GRC/cv_mohamed_ben_naima_v5.docx) |
 | SDE (EN) | — | [`ATS/SDE/cv_mohamed_ben_naima_v5.pdf`](ATS/SDE/cv_mohamed_ben_naima_v5.pdf) | [`ATS/SDE/cv_mohamed_ben_naima_v5.docx`](ATS/SDE/cv_mohamed_ben_naima_v5.docx) |
-| Optiver (EN) | [`Applications/Optiver/cv_mohamed_ben_naima_optiver.pdf`](Applications/Optiver/cv_mohamed_ben_naima_optiver.pdf) | [`ATS/Optiver/cv_mohamed_ben_naima_v5.pdf`](ATS/Optiver/cv_mohamed_ben_naima_v5.pdf) | [`Applications/Optiver/cv_mohamed_ben_naima_optiver.html`](Applications/Optiver/cv_mohamed_ben_naima_optiver.html) |
+| Optiver Graduate (EN) | [`Applications/Optiver/cv_mohamed_ben_naima_optiver.pdf`](Applications/Optiver/cv_mohamed_ben_naima_optiver.pdf) | [`ATS/Optiver/cv_mohamed_ben_naima_v5.pdf`](ATS/Optiver/cv_mohamed_ben_naima_v5.pdf) | [`Applications/Optiver/cv_mohamed_ben_naima_optiver.html`](Applications/Optiver/cv_mohamed_ben_naima_optiver.html) |
 
 ### Folders
 
