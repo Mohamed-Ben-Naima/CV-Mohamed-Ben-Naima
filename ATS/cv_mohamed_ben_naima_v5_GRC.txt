@@ -17,13 +17,13 @@ Tools: Git, Jira, Postman, Grafana, Prometheus, Loki
 EXPERIENCE
 
 Software Engineering Intern - Full-Stack, Polymaille (Textile Industry), Ksar Hellal, Tunisia
-Jul - Sep 2026 (present)
+July - September 2026 (present)
 - Designing role-based access control (RBAC) with granular permissions so warehouse, production and finance teams share the same data under least-privilege principles - access governance across four business cycles (purchase, stock, production, sales).
 - Working on supplier orders and approval workflows (third-party procurement) inside a full-cycle ERP (Microtiss Confect) - one trusted source of truth with strict data integrity, deployment in progress on a team-configured Windows Server.
 - Documenting every module end-to-end with the business lead: processes framed with the user and validated before delivery - hands-on process documentation and stakeholder communication.
 
 Full-Stack / Backend / Mobile Developer, Alfa Computers, Mahdia, Tunisia
-Mar 2024 - Aug 2025 (PFE, IoT mobile, backend internships)
+March 2024 - August 2025 (PFE, IoT mobile, backend internships)
 - Built "The Hive" trading platform backend with fully authenticated REST endpoints (FastAPI, JWT + OAuth2, OpenAPI/Swagger, Postman test suites).
 - Delivered a complete MERN e-commerce solo (React, Node.js, Express, MongoDB) with JWT login, customer/admin dashboards, Docker and GitLab CI/CD.
 - Led a 3-person team (2 mobile + 1 IoT/hardware) shipping a smart-home app (React Native + Node.js/Express) streaming live Arduino sensor data, deployed on Render.
