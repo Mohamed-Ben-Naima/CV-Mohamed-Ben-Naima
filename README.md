@@ -16,7 +16,7 @@ Current, print-ready CVs plus the editable sources (HTML) and ATS text versions.
 - **`French/`** — standard full-page CV (FR) · PDF + HTML source
 - **`ATS/`** — single-column ATS-friendly versions, one folder per variant:
   - `EN/` · `FR/` · `GRC/` · `SDE/` — each with PDF + HTML + TXT (GRC & SDE also include DOCX for portals)
-- **`Applications/`** — role-specific materials, one folder per company (e.g. `Chanel-GRC/` cover letter)
+- **`Applications/`** — role-specific materials, one folder per company (`Chanel-GRC/` cover letter, `Optiver/` designed CV)
 
 ### Updating
 
