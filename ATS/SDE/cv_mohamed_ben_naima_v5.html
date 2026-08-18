@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CV — Mohamed Ben Naima (SDE, ATS)</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  @page { size: A4; margin: 0; }
+  html, body { background: #ffffff; }
+  body { font-family: Arial, Helvetica, sans-serif; color: #000000; }
+  .page { width: 210mm; height: 297mm; margin: 0 auto; padding: 7mm 13mm; font-size: 8.7pt; line-height: 1.14; }
+  h1 { font-size: 15pt; margin-bottom: 1px; }
+  .subtitle { font-size: 10pt; font-weight: bold; margin-bottom: 3px; }
+  .contact { font-size: 9pt; margin-bottom: 5px; }
+  h2 { font-size: 9.8pt; text-transform: uppercase; border-bottom: 1px solid #000; margin: 4px 0 2.5px; letter-spacing: 0.6px; }
+  p { margin-bottom: 2.5px; }
+  ul { margin: 2px 0 2.5px 13px; }
+  li { margin-bottom: 1.5px; }
+  .skills p { margin-bottom: 0.5px; }
+  .job { margin-bottom: 4px; }
+  .job-head { font-weight: bold; }
+  .job-date { font-weight: normal; }
+  .proj { margin-bottom: 3px; }
+  .proj-name { font-weight: bold; }
+  .stack { font-size: 8.5pt; color: #333; }
+  .edu { margin-bottom: 2.5px; }
+</style>
+</head>
+<body>
+<div class="page">
+  <h1>Mohamed Ben Naima</h1>
+  <div class="subtitle">Software Engineer — Backend, Cloud &amp; Distributed Systems | Engineering Student</div>
+  <div class="contact">Tunisia | +216 25 577 542 | Medbennaima2021@gmail.com | <a href="https://www.linkedin.com/in/mohamed-ben-naima/">linkedin.com/in/mohamed-ben-naima</a> | <a href="https://github.com/Mohamed-Ben-Naima">github.com/Mohamed-Ben-Naima</a> | <a href="https://mohamed-ben-naima.netlify.app/">Portfolio: mohamed-ben-naima.netlify.app</a> | English (bilingual) | French (bilingual)</div>
+
+  <h2>Profile</h2>
+  <p>Engineering student focused on backend, cloud-native and distributed systems. As an engineering intern I am building a full-cycle industrial ERP (Spring Boot Modulith) — owning modules end-to-end from domain model to REST APIs, with Redis caching, MySQL (Aiven), OAuth2/JWT + RBAC and an Angular frontend, now preparing deployment on a team-configured Windows Server. Prior experience: a MERN e-commerce platform, a FastAPI trading backend, and a microservices banking application deployed on an OpenStack private cloud with Kafka, observability and CI/CD. Solid foundations in data structures, algorithms and object-oriented design; comfortable with AWS, Docker, Kubernetes and Git-based workflows; motivated by ownership and operational excellence.</p>
+
+  <h2>Technical Skills</h2>
+  <div class="skills">
+    <p><b>Languages:</b> Java, Python, JavaScript/TypeScript, PHP, SQL</p>
+    <p><b>Backend &amp; APIs:</b> Spring Boot, FastAPI, Node.js/Express, Symfony, REST, OpenAPI/Swagger</p>
+    <p><b>Distributed &amp; Messaging:</b> Spring Modulith, Kafka, Redis, Caffeine</p>
+    <p><b>Data:</b> MySQL, PostgreSQL, MongoDB, Oracle, data modeling</p>
+    <p><b>Cloud &amp; DevOps:</b> AWS, OpenStack, Docker, Kubernetes, GitLab CI/CD, GitHub Actions, Render</p>
+    <p><b>Frontend:</b> Angular, React, Tailwind CSS, HTML/CSS</p>
+    <p><b>Observability:</b> Grafana, Prometheus, Loki, Wazuh</p>
+    <p><b>Tools:</b> Git, Jira, Postman, UML</p>
+  </div>
+
+  <h2>Work Experience</h2>
+
+  <div class="job">
+    <div class="job-head">Software Engineering Intern — Full-Stack, Polymaille (Textile Industry) <span class="job-date">| Ksar Hellal, Tunisia · July – September 2026 (present)</span></div>
+    <ul>
+      <li><b>Building a full-cycle industrial ERP</b> architected as a <b>Spring Boot Modulith</b> — five domain modules sealed behind API boundaries and decoupled through application events; own the Stock &amp; Sales modules end-to-end (domain model, event flows, REST APIs).</li>
+      <li><b>Implementing OAuth2/JWT + RBAC</b> (Keycloak), MySQL (Aiven), Redis + Caffeine caching, OpenAPI/Swagger and PDF invoicing with an Angular + Tailwind frontend; deployment in progress on a team-configured Windows Server.</li>
+      <li><b>Working in a 2-person team</b> alongside the Purchasing &amp; Production owner, documenting every module with the business lead before delivery.</li>
+    </ul>
+  </div>
+
+  <div class="job">
+    <div class="job-head">Full-Stack / Backend / Mobile Developer, Alfa Computers <span class="job-date">| Mahdia, Tunisia · March 2024 – August 2025 (PFE, IoT mobile, backend internships)</span></div>
+    <ul>
+      <li><b>Built</b> "The Hive" trading platform backend with fully authenticated REST endpoints (FastAPI, JWT + OAuth2, OpenAPI/Swagger, Postman test suites).</li>
+      <li><b>Delivered a complete MERN e-commerce</b> solo (React, Node.js, Express, MongoDB) with JWT login, customer/admin dashboards, Docker and GitLab CI/CD deployments to Render.</li>
+      <li><b>Led a 3-person team</b> (2 mobile + 1 IoT/hardware) shipping a smart-home app (React Native + Node.js/Express) streaming live Arduino sensor data, deployed on Render.</li>
+    </ul>
+  </div>
+
+  <h2>Projects</h2>
+
+  <div class="proj">
+    <div class="proj-name">Secured Banking Infrastructure <span class="stack">(2026) — GNS3 · Cisco · OpenStack · Spring Boot · Angular · Kafka · pfSense · Wazuh · Grafana · Prometheus · Loki · GitHub Actions · AWS</span></div>
+    <ul>
+      <li><b>Deployed a microservices banking app</b> (Spring Boot, Angular, Kafka — one database per service) on an OpenStack private cloud inside GNS3.</li>
+      <li><b>CI/CD pipelines</b> (JAR-to-server auto-deploy, AWS golden-image to OpenStack VM) plus observability with Grafana, Prometheus, Loki and Wazuh; KYC module in JWT/RBAC. <b>Nominated, ESPRIT Projects Ball.</b></li>
+    </ul>
+  </div>
+
+  <div class="proj">
+    <div class="proj-name">Hermes Suite — E-commerce Platform (MERN) <span class="stack">(2024 – present) — React · Node.js · Express · MongoDB · Docker · Render</span></div>
+    <p>Full MERN e-commerce with JWT authentication, customer/admin dashboards and PDF invoices, being matured into a multi-tenant SaaS.</p>
+  </div>
+
+  <div class="proj">
+    <div class="proj-name">Windows Server &amp; Network Services Lab <span class="stack">(2026) — Windows Server · Active Directory · Kerberos</span></div>
+    <p>Configured Windows Server roles — FTP, DNS, DHCP — with Kerberos-based authentication/authorization and granular file permissions.</p>
+  </div>
+
+  <h2>Education</h2>
+  <div class="edu"><b>ESPRIM Monastir</b> — Engineering Degree, Cybersecurity &amp; Cloud Computing <span class="stack">(2024 – 2027) · top of class · expected graduation June 2027</span></div>
+  <div class="edu"><b>ISIMa Mahdia</b> — BSc, Software Engineering <span class="stack">(2021 – 2024) · with highest honours</span></div>
+  <div class="edu"><b>Lycée Tahar Sfar, Mahdia</b> — Baccalauréat in Mathematics <span class="stack">(2021 – 2022)</span></div>
+
+  <h2>Certifications</h2>
+  <p>CLLMSP &amp; CRTOM (Red Team Leaders, 2026) | Cisco CCNA 200-301 (in progress) | Full-Stack MERN (100h) | Building AI Agents (DeepLearning.AI) | n8n Workflow Automation</p>
+
+  <h2>Languages</h2>
+  <p><b>Arabic</b> — native | <b>French</b> — bilingual | <b>English</b> — bilingual | <b>German</b> — basic</p>
+
+  <h2>Leadership &amp; Community</h2>
+  <ul>
+    <li>Co-founded <b>Hunters Club</b> (20+ members) — competitive CTFs across Tunisia (2nd &amp; 4th, Polytech Sousse CTF); ambassador, CyberSphere Congress (Hammamet).</li>
+    <li>Led the Cyber &amp; Cloud committee at <b>DevTalents</b> (30+ members) — organized an LPIC-1 preparation session.</li>
+    <li><b>2nd place</b>, Clean &amp; Green hackathon 2025 — regular hackathon participant (incl. AGEOS).</li>
+  </ul>
+</div>
+</body>
+</html>

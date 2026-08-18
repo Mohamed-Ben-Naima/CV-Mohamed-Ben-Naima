@@ -1,0 +1,57 @@
+Mohamed Ben Naima
+Software Engineer - Backend, Cloud & Distributed Systems | Engineering Student
+Tunisia | +216 25 577 542 | Medbennaima2021@gmail.com | LinkedIn: linkedin.com/in/mohamed-ben-naima | GitHub: github.com/Mohamed-Ben-Naima | Portfolio: mohamed-ben-naima.netlify.app | English (bilingual) | French (bilingual)
+
+PROFILE
+Engineering student focused on backend, cloud-native and distributed systems. As an engineering intern I am building a full-cycle industrial ERP (Spring Boot Modulith) - owning modules end-to-end from domain model to REST APIs, with Redis caching, MySQL (Aiven), OAuth2/JWT + RBAC and an Angular frontend, now preparing deployment on a team-configured Windows Server. Prior experience: a MERN e-commerce platform, a FastAPI trading backend, and a microservices banking application deployed on an OpenStack private cloud with Kafka, observability and CI/CD. Solid foundations in data structures, algorithms and object-oriented design; comfortable with AWS, Docker, Kubernetes and Git-based workflows; motivated by ownership and operational excellence.
+
+TECHNICAL SKILLS
+Languages: Java, Python, JavaScript/TypeScript, PHP, SQL
+Backend & APIs: Spring Boot, FastAPI, Node.js/Express, Symfony, REST, OpenAPI/Swagger
+Distributed & Messaging: Spring Modulith, Kafka, Redis, Caffeine
+Data: MySQL, PostgreSQL, MongoDB, Oracle, data modeling
+Cloud & DevOps: AWS, OpenStack, Docker, Kubernetes, GitLab CI/CD, GitHub Actions, Render
+Frontend: Angular, React, Tailwind CSS, HTML/CSS
+Observability: Grafana, Prometheus, Loki, Wazuh
+Tools: Git, Jira, Postman, UML
+
+WORK EXPERIENCE
+
+Software Engineering Intern - Full-Stack, Polymaille (Textile Industry), Ksar Hellal, Tunisia
+July - September 2026 (present)
+- Building a full-cycle industrial ERP architected as a Spring Boot Modulith - five domain modules sealed behind API boundaries and decoupled through application events; own the Stock & Sales modules end-to-end (domain model, event flows, REST APIs).
+- Implementing OAuth2/JWT + RBAC (Keycloak), MySQL (Aiven), Redis + Caffeine caching, OpenAPI/Swagger and PDF invoicing with an Angular + Tailwind frontend; deployment in progress on a team-configured Windows Server.
+- Working in a 2-person team alongside the Purchasing & Production owner, documenting every module with the business lead before delivery.
+
+Full-Stack / Backend / Mobile Developer, Alfa Computers, Mahdia, Tunisia
+March 2024 - August 2025 (PFE, IoT mobile, backend internships)
+- Built "The Hive" trading platform backend with fully authenticated REST endpoints (FastAPI, JWT + OAuth2, OpenAPI/Swagger, Postman test suites).
+- Delivered a complete MERN e-commerce solo (React, Node.js, Express, MongoDB) with JWT login, customer/admin dashboards, Docker and GitLab CI/CD deployments to Render.
+- Led a 3-person team (2 mobile + 1 IoT/hardware) shipping a smart-home app (React Native + Node.js/Express) streaming live Arduino sensor data, deployed on Render.
+
+PROJECTS
+Secured Banking Infrastructure (2026) - GNS3, Cisco, OpenStack, Spring Boot, Angular, Kafka, pfSense, Wazuh, Grafana, Prometheus, Loki, GitHub Actions, AWS
+- Deployed a microservices banking app (Spring Boot, Angular, Kafka - one database per service) on an OpenStack private cloud inside GNS3.
+- CI/CD pipelines (JAR-to-server auto-deploy, AWS golden-image to OpenStack VM) plus observability with Grafana, Prometheus, Loki and Wazuh; KYC module in JWT/RBAC. Nominated, ESPRIT Projects Ball.
+
+Hermes Suite - E-commerce Platform (MERN) (2024 - present) - React, Node.js, Express, MongoDB, Docker, Render
+- Full MERN e-commerce with JWT authentication, customer/admin dashboards and PDF invoices, being matured into a multi-tenant SaaS.
+
+Windows Server & Network Services Lab (2026) - Windows Server, Active Directory, Kerberos
+- Configured Windows Server roles - FTP, DNS, DHCP - with Kerberos-based authentication/authorization and granular file permissions.
+
+EDUCATION
+ESPRIM Monastir - Engineering Degree, Cybersecurity & Cloud Computing (2024 - 2027) - top of class - expected graduation June 2027
+ISIMa Mahdia - BSc, Software Engineering (2021 - 2024) - with highest honours
+Lycée Tahar Sfar, Mahdia - Baccalauréat in Mathematics (2021 - 2022)
+
+CERTIFICATIONS
+CLLMSP & CRTOM (Red Team Leaders, 2026) | Cisco CCNA 200-301 (in progress) | Full-Stack MERN (100h) | Building AI Agents (DeepLearning.AI) | n8n Workflow Automation
+
+LANGUAGES
+Arabic - native | French - bilingual | English - bilingual | German - basic
+
+LEADERSHIP & COMMUNITY
+- Co-founded Hunters Club (20+ members) - competitive CTFs across Tunisia (2nd & 4th, Polytech Sousse CTF); ambassador, CyberSphere Congress (Hammamet).
+- Led the Cyber & Cloud committee at DevTalents (30+ members) - organized an LPIC-1 preparation session.
+- 2nd place, Clean & Green hackathon 2025 - regular hackathon participant (incl. AGEOS).

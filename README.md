@@ -8,13 +8,14 @@ Current, print-ready CVs plus the editable sources (HTML) and ATS text versions.
 | English | [`English/cv_mohamed_ben_naima_v5.pdf`](English/cv_mohamed_ben_naima_v5.pdf) | [`ATS/EN/cv_mohamed_ben_naima_v5.pdf`](ATS/EN/cv_mohamed_ben_naima_v5.pdf) | [`English/cv_mohamed_ben_naima_v5.html`](English/cv_mohamed_ben_naima_v5.html) |
 | French | [`French/cv_mohamed_ben_naima_v5_fr.pdf`](French/cv_mohamed_ben_naima_v5_fr.pdf) | [`ATS/FR/cv_mohamed_ben_naima_v5.pdf`](ATS/FR/cv_mohamed_ben_naima_v5.pdf) | [`French/cv_mohamed_ben_naima_v5_fr.html`](French/cv_mohamed_ben_naima_v5_fr.html) |
 | GRC (EN) | — | [`ATS/GRC/cv_mohamed_ben_naima_v5.pdf`](ATS/GRC/cv_mohamed_ben_naima_v5.pdf) | [`ATS/GRC/cv_mohamed_ben_naima_v5.docx`](ATS/GRC/cv_mohamed_ben_naima_v5.docx) |
+| SDE (EN) | — | [`ATS/SDE/cv_mohamed_ben_naima_v5.pdf`](ATS/SDE/cv_mohamed_ben_naima_v5.pdf) | [`ATS/SDE/cv_mohamed_ben_naima_v5.docx`](ATS/SDE/cv_mohamed_ben_naima_v5.docx) |
 
 ### Folders
 
 - **`English/`** — standard full-page CV (EN) · PDF + HTML source
 - **`French/`** — standard full-page CV (FR) · PDF + HTML source
 - **`ATS/`** — single-column ATS-friendly versions, one folder per variant:
-  - `EN/` · `FR/` · `GRC/` — each with PDF + HTML + TXT (GRC also includes DOCX for Workday)
+  - `EN/` · `FR/` · `GRC/` · `SDE/` — each with PDF + HTML + TXT (GRC & SDE also include DOCX for portals)
 - **`Applications/`** — role-specific materials, one folder per company (e.g. `Chanel-GRC/` cover letter)
 
 ### Updating
