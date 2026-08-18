@@ -11,6 +11,7 @@ Frontend : Angular, React, React Native, Tailwind CSS, HTML/CSS
 Backend & APIs : FastAPI, Node.js/Express, Spring Boot, Symfony, REST, Swagger/OpenAPI
 Bases de données : MongoDB, PostgreSQL, MySQL, Oracle
 Auth & Sécurité : JWT, OAuth2, RBAC, Keycloak
+Patterns d'architecture : monolithe modulaire (Spring Modulith), microservices, architecture événementielle
 Cloud & DevOps : Docker, Kubernetes, GitLab CI/CD, GitHub Actions, OpenStack, AWS, Render
 Réseau : Commutation Cisco, pfSense, VLANs, DNS/DHCP, Wireshark
 Systèmes d'exploitation : Ubuntu, Kali, Windows Server
@@ -21,7 +22,7 @@ EXPERIENCE PROFESSIONNELLE
 
 Stagiaire Ingénieur Logiciel - Full-Stack, Polymaille (Industrie Textile), Ksar Hellal, Tunisie
 juil. - sept. 2026 (en cours)
-- Développé un ERP complet (Microtiss Confect) couvrant achat, stock, production et vente - commandes fournisseurs, workflow d'approbation, bons de livraison, factures et paiements - une source de vérité unique sur quatre cycles métier, avec un déploiement en préparation sur un serveur Windows configuré par l'équipe.
+- Développé un ERP complet en Spring Boot Modulith (monolithe modulaire) pour Microtiss Confect - couvrant achat, stock, production et vente - commandes fournisseurs, workflow d'approbation, bons de livraison, factures et paiements - une source de vérité unique sur quatre cycles métier, avec un déploiement en préparation sur un serveur Windows configuré par l'équipe.
 - Conçu le modèle relationnel et l'API REST, en garantissant l'intégrité et la sécurité des données via le contrôle d'accès basé sur les rôles (RBAC) ; les équipes entrepôt, production et finance partagent les mêmes données avec des permissions granulaires.
 - Géré le cadrage de bout en bout avec le responsable métier : chaque module cadré avec l'utilisateur et validé avant livraison.
 
@@ -34,9 +35,9 @@ Mars 2024 - Août 2025 (PFE, IoT mobile, stages backend)
 PROJETS
 
 Infrastructure Bancaire Sécurisée (2026)
-GNS3 | Cisco | OpenStack | Spring Boot | Angular | Kafka | pfSense | Grafana | Prometheus | Loki | Wazuh | GitHub Actions | AWS
+Microservices | Spring Boot | Angular | Keycloak | SQL/MySQL | Kafka | OpenStack | GNS3 | AWS | GitHub Actions
 - Conçu une architecture réseau sécurisée : commutateur cœur Cisco, double pare-feu pfSense interne/externe, routeur périphérique, serveur Ubuntu, segmentation VLAN, DNS/DHCP.
-- Déployé une application bancaire en microservices (Spring Boot, Angular, Kafka - une base de données par service) sur un cloud privé OpenStack dans GNS3 ; CI/CD (déploiement auto JAR vers serveur) plus un pipeline d'image dorée AWS vers VM OpenStack.
+- Architecturé une application bancaire en microservices (Spring Boot, Angular, Keycloak, SQL/MySQL - une base de données par service) sur un cloud privé OpenStack dans GNS3, avec eventing asynchrone Kafka, CI/CD (déploiement auto JAR vers serveur) et pipeline d'image dorée AWS vers VM OpenStack.
 - Observabilité avec Grafana, Prometheus, Loki, Wazuh ; module KYC en JWT/RBAC. Nominé, ESPRIT Projects Ball.
 
 Hermes Suite - Plateforme E-commerce (MERN) (2024 - présent)

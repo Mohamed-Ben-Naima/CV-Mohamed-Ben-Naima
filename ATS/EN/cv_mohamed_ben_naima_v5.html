@@ -9,16 +9,15 @@
   @page { size: A4; margin: 0; }
   html, body { background: #ffffff; }
   body { font-family: Arial, Helvetica, sans-serif; color: #000000; }
-  .page { width: 210mm; height: 297mm; margin: 0 auto; padding: 7mm 13mm; font-size: 8.7pt; line-height: 1.14; }
+  .page { width: 210mm; height: 297mm; margin: 0 auto; padding: 7mm 13mm; font-size: 8.6pt; line-height: 1.1; }
   h1 { font-size: 15pt; margin-bottom: 1px; }
   .subtitle { font-size: 10pt; font-weight: bold; margin-bottom: 3px; }
   .contact { font-size: 9pt; margin-bottom: 5px; }
-  h2 { font-size: 9.8pt; text-transform: uppercase; border-bottom: 1px solid #000; margin: 4px 0 2.5px; letter-spacing: 0.6px; }
-  p { margin-bottom: 2.5px; }
-  ul { margin: 2px 0 2.5px 13px; }
-  li { margin-bottom: 1.5px; }
-  .skills p { margin-bottom: 0.5px; }
-  .job { margin-bottom: 4px; }
+h2 { font-size: 9.8pt; text-transform: uppercase; border-bottom: 1px solid #000; margin: 3px 0 2px; letter-spacing: 0.6px; }
+  p { margin-bottom: 2px; }
+  ul { margin: 1.5px 0 2px 13px; }
+  li { margin-bottom: 1.2px; }
+  .job { margin-bottom: 3px; }
   .job-head { font-weight: bold; }
   .job-date { font-weight: normal; }
   .proj { margin-bottom: 4px; }
@@ -43,6 +42,7 @@
     <p><b>Backend &amp; APIs:</b> FastAPI, Node.js/Express, Spring Boot, Symfony, REST, Swagger/OpenAPI</p>
     <p><b>Databases:</b> MongoDB, PostgreSQL, MySQL, Oracle</p>
     <p><b>Auth &amp; Security:</b> JWT, OAuth2, RBAC, Keycloak</p>
+    <p><b>Architecture Patterns:</b> modular monolith (Spring Modulith), microservices, event-driven design</p>
     <p><b>Cloud &amp; DevOps:</b> Docker, Kubernetes, GitLab CI/CD, GitHub Actions, OpenStack, AWS, Render</p>
     <p><b>Networking:</b> Cisco switching, pfSense, VLANs, DNS/DHCP, Wireshark</p>
     <p><b>OS:</b> Ubuntu, Kali, Windows Server</p>
@@ -55,7 +55,7 @@
   <div class="job">
     <div class="job-head">Software Engineering Intern — Full-Stack, Polymaille (Textile Industry) <span class="job-date">| Ksar Hellal, Tunisia · Jul – Sep 2026 (present)</span></div>
     <ul>
-      <li><b>Building a full-cycle ERP</b> (Microtiss Confect) covering purchase, stock, production and sales — supplier orders, approval workflow, delivery notes, invoices and payments — one trusted source of truth across four business cycles, with deployment in progress on a team-configured Windows Server.</li>
+      <li><b>Building a full-cycle ERP as a Spring Boot Modulith</b> (modular monolith) for Microtiss Confect — covering purchase, stock, production and sales — supplier orders, approval workflow, delivery notes, invoices and payments — one trusted source of truth across four business cycles, with deployment in progress on a team-configured Windows Server.</li>
       <li><b>Designed the relational model &amp; REST API</b>, enforcing data integrity and security through role-based access control (RBAC); warehouse, production and finance teams share the same data with granular permissions.</li>
       <li><b>Owned scoping end-to-end</b> with the business lead: every module framed with the user and validated before delivery.</li>
     </ul>
@@ -73,10 +73,10 @@
   <h2>Projects</h2>
 
   <div class="proj">
-    <div class="proj-name">Secured Banking Infrastructure <span class="stack">(2026) — GNS3 · Cisco · OpenStack · Spring Boot · Angular · Kafka · pfSense · Grafana · Prometheus · Loki · Wazuh · GitHub Actions · AWS</span></div>
+    <div class="proj-name">Secured Banking Infrastructure <span class="stack">(2026) — microservices · Spring Boot · Angular · Keycloak · SQL/MySQL · Kafka · OpenStack · GNS3 · AWS · GitHub Actions · Grafana · Prometheus · Wazuh</span></div>
     <ul>
       <li><b>Conceived a secured network architecture:</b> Cisco core switch, dual internal/external pfSense firewalls, edge router, Ubuntu server, VLAN segmentation, DNS/DHCP.</li>
-      <li><b>Deployed a microservices banking app</b> (Spring Boot, Angular, Kafka — one database per service) on an OpenStack private cloud inside GNS3; CI/CD (JAR to server auto-deploy) plus an AWS golden-image to OpenStack VM pipeline.</li>
+      <li><b>Architected a microservices banking app</b> (Spring Boot, Angular, Keycloak, SQL/MySQL — one database per service) on an OpenStack private cloud inside GNS3, with Kafka async eventing, CI/CD (JAR auto-deploy) and an AWS golden-image to OpenStack VM pipeline.</li>
       <li><b>Observability</b> with Grafana, Prometheus, Loki, Wazuh; KYC module in JWT/RBAC. <b>Nominated, ESPRIT Projects Ball.</b></li>
     </ul>
   </div>

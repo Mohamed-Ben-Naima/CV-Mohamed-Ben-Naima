@@ -11,6 +11,7 @@ Frontend: Angular, React, React Native, Tailwind CSS, HTML/CSS
 Backend & APIs: FastAPI, Node.js/Express, Spring Boot, Symfony, REST, Swagger/OpenAPI
 Databases: MongoDB, PostgreSQL, MySQL, Oracle
 Auth & Security: JWT, OAuth2, RBAC, Keycloak
+Architecture Patterns: modular monolith (Spring Modulith), microservices, event-driven design
 Cloud & DevOps: Docker, Kubernetes, GitLab CI/CD, GitHub Actions, OpenStack, AWS, Render
 Networking: Cisco switching, pfSense, VLANs, DNS/DHCP, Wireshark
 OS: Ubuntu, Kali, Windows Server
@@ -21,7 +22,7 @@ EXPERIENCE
 
 Software Engineering Intern - Full-Stack, Polymaille (Textile Industry), Ksar Hellal, Tunisia
 Jul - Sep 2026 (present)
-- Building a full-cycle ERP (Microtiss Confect) covering purchase, stock, production and sales - supplier orders, approval workflow, delivery notes, invoices and payments - one trusted source of truth across four business cycles, with deployment in progress on a team-configured Windows Server.
+- Building a full-cycle ERP as a Spring Boot Modulith (modular monolith) for Microtiss Confect - covering purchase, stock, production and sales - supplier orders, approval workflow, delivery notes, invoices and payments - one trusted source of truth across four business cycles, with deployment in progress on a team-configured Windows Server.
 - Designed the relational model and REST API, enforcing data integrity and security through role-based access control (RBAC); warehouse, production and finance teams share the same data with granular permissions.
 - Owned scoping end-to-end with the business lead: every module framed with the user and validated before delivery.
 
@@ -34,9 +35,9 @@ Mar 2024 - Aug 2025 (3 internships: PFE Mar-Jun 2024, IoT mobile Summer 2024, ba
 PROJECTS
 
 Secured Banking Infrastructure (2026)
-GNS3 | Cisco | OpenStack | Spring Boot | Angular | Kafka | pfSense | Grafana | Prometheus | Loki | Wazuh | GitHub Actions | AWS
+Microservices | Spring Boot | Angular | Keycloak | SQL/MySQL | Kafka | OpenStack | GNS3 | AWS | GitHub Actions
 - Conceived a secured network architecture: Cisco core switch, dual internal/external pfSense firewalls, edge router, Ubuntu server, VLAN segmentation, DNS/DHCP.
-- Deployed a microservices banking app (Spring Boot, Angular, Kafka - one database per service) on an OpenStack private cloud inside GNS3; CI/CD (JAR to server auto-deploy) plus an AWS golden-image to OpenStack VM pipeline.
+- Architected a microservices banking app (Spring Boot, Angular, Keycloak, SQL/MySQL - one database per service) on an OpenStack private cloud inside GNS3, with Kafka async eventing, CI/CD (JAR auto-deploy) and an AWS golden-image to OpenStack VM pipeline.
 - Observability with Grafana, Prometheus, Loki, Wazuh; KYC module in JWT/RBAC. Nominated, ESPRIT Projects Ball.
 
 Hermes Suite - E-commerce Platform (MERN) (2024 - present)

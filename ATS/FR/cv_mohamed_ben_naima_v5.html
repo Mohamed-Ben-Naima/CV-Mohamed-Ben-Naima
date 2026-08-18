@@ -43,6 +43,7 @@
     <p><b>Backend &amp; APIs&nbsp;:</b> FastAPI, Node.js/Express, Spring Boot, Symfony, REST, Swagger/OpenAPI</p>
     <p><b>Bases de données&nbsp;:</b> MongoDB, PostgreSQL, MySQL, Oracle</p>
     <p><b>Auth &amp; Sécurité&nbsp;:</b> JWT, OAuth2, RBAC, Keycloak</p>
+    <p><b>Patterns d'architecture&nbsp;:</b> monolithe modulaire (Spring Modulith), microservices, architecture événementielle</p>
     <p><b>Cloud &amp; DevOps&nbsp;:</b> Docker, Kubernetes, GitLab CI/CD, GitHub Actions, OpenStack, AWS, Render</p>
     <p><b>Réseau&nbsp;:</b> Commutation Cisco, pfSense, VLANs, DNS/DHCP, Wireshark</p>
     <p><b>OS&nbsp;:</b> Ubuntu, Kali, Windows Server</p>
@@ -55,7 +56,7 @@
   <div class="job">
     <div class="job-head">Stagiaire Ingénieur Logiciel — Full-Stack, Polymaille (Industrie Textile) <span class="job-date">| Ksar Hellal, Tunisie · juil.–sept. 2026 (en cours)</span></div>
     <ul>
-      <li><b>Développé un ERP complet</b> (Microtiss Confect) couvrant achats, stock, production et ventes&nbsp;: commandes fournisseurs, workflow d'approbation, bons de livraison, factures et paiements — une source de vérité unique pour quatre cycles métier, avec un déploiement en préparation sur un serveur Windows configuré par l'équipe.</li>
+      <li><b>Développé un ERP complet en Spring Boot Modulith</b> (monolithe modulaire) pour Microtiss Confect — couvrant achats, stock, production et ventes&nbsp;: commandes fournisseurs, workflow d'approbation, bons de livraison, factures et paiements — une source de vérité unique pour quatre cycles métier, avec un déploiement en préparation sur un serveur Windows configuré par l'équipe.</li>
       <li><b>Conçu le modèle relationnel et l'API REST</b> en garantissant l'intégrité et la sécurité des données via un contrôle d'accès par rôles (RBAC)&nbsp;: entrepôt, production et finance partagent les mêmes données avec des permissions granulaires.</li>
       <li><b>Cadré de bout en bout</b> avec le responsable métier&nbsp;: chaque module défini avec l'utilisateur et validé avant livraison.</li>
     </ul>
@@ -73,10 +74,10 @@
   <h2>Projets</h2>
 
   <div class="proj">
-    <div class="proj-name">Infrastructure Bancaire Sécurisée <span class="stack">(2026) — GNS3 · Cisco · OpenStack · Spring Boot · Angular · Kafka · pfSense · Grafana · Prometheus · Loki · Wazuh · GitHub Actions · AWS</span></div>
+    <div class="proj-name">Infrastructure Bancaire Sécurisée <span class="stack">(2026) — microservices · Spring Boot · Angular · Keycloak · SQL/MySQL · Kafka · OpenStack · GNS3 · AWS · GitHub Actions · Grafana · Prometheus · Wazuh</span></div>
     <ul>
       <li><b>Conçu une architecture réseau sécurisée&nbsp;:</b> commutateur cœur Cisco, double pare-feu pfSense (interne/externe), routeur périphérique, serveur Ubuntu, segmentation VLAN, DNS/DHCP.</li>
-      <li><b>Déployé une application bancaire en microservices</b> (Spring Boot, Angular, Kafka — une base de données par service) sur un cloud privé OpenStack dans GNS3&nbsp;; CI/CD (déploiement automatique du JAR) et pipeline «&nbsp;golden image&nbsp;» AWS vers VM OpenStack.</li>
+      <li><b>Architecturé une application bancaire en microservices</b> (Spring Boot, Angular, Keycloak, SQL/MySQL — une base de données par service) sur un cloud privé OpenStack dans GNS3, avec eventing asynchrone Kafka, CI/CD (déploiement automatique du JAR) et pipeline «&nbsp;golden image&nbsp;» AWS vers VM OpenStack.</li>
       <li><b>Assuré l'observabilité</b> (Grafana, Prometheus, Loki, Wazuh) et le module KYC en JWT/RBAC. <b>Nominé au ESPRIT Projects Ball.</b></li>
     </ul>
   </div>
