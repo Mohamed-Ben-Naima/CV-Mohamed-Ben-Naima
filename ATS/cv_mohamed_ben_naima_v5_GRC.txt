@@ -1,0 +1,56 @@
+Mohamed Ben Naima
+Cybersecurity & Cloud Computing Engineering Student - Governance, Risk & Compliance (GRC)
+Tunisia | +216 25 577 542 | Medbennaima2021@gmail.com | LinkedIn: linkedin.com/in/mohamed-ben-naima | GitHub: github.com/Mohamed-Ben-Naima | Portfolio: mohamed-ben-naima.netlify.app | English (bilingual) | French (bilingual)
+
+PROFILE
+Cybersecurity engineering student with hands-on experience in access governance, supplier/approval workflows and secure infrastructure. As an engineering intern I am building a full-cycle industrial ERP - designing role-based access control (RBAC) under least-privilege principles, working on third-party supplier processes, and documenting every business process end-to-end. Outside work I co-founded a CTF club, run security workshops and training sessions, and design segmented network architectures with firewalls and monitoring. Analytical, documentation-driven, fluent in English and French; motivated to support third-party security assessments, scorecard monitoring, risk analytics and security-awareness initiatives.
+
+TECHNICAL SKILLS
+Access Control & Identity (IAM): RBAC & least-privilege design, OAuth2, JWT, Keycloak, Active Directory, Kerberos
+Data & Analytics: MySQL, SQL, PostgreSQL, MongoDB, data modeling, single-source-of-truth reporting
+Security & Risk Analysis: attack-surface analysis, CTFs, Wireshark, Wazuh, Kali Linux, OpenAPI security
+Third-Party & Process: supplier orders & approval workflows, process documentation, UML, business-user scoping
+Networks & Infrastructure: Cisco switching, pfSense firewalls, VLAN segmentation, DNS/DHCP, Windows Server, Ubuntu, GNS3, OpenStack
+Cloud & DevOps: Docker, Kubernetes, AWS, GitLab CI/CD, GitHub Actions, Render
+Tools: Git, Jira, Postman, Grafana, Prometheus, Loki
+
+EXPERIENCE
+
+Software Engineering Intern - Full-Stack, Polymaille (Textile Industry), Ksar Hellal, Tunisia
+Jul - Sep 2026 (present)
+- Designing role-based access control (RBAC) with granular permissions so warehouse, production and finance teams share the same data under least-privilege principles - access governance across four business cycles (purchase, stock, production, sales).
+- Working on supplier orders and approval workflows (third-party procurement) inside a full-cycle ERP (Microtiss Confect) - one trusted source of truth with strict data integrity, deployment in progress on a team-configured Windows Server.
+- Documenting every module end-to-end with the business lead: processes framed with the user and validated before delivery - hands-on process documentation and stakeholder communication.
+
+Full-Stack / Backend / Mobile Developer, Alfa Computers, Mahdia, Tunisia
+Mar 2024 - Aug 2025 (PFE, IoT mobile, backend internships)
+- Built "The Hive" trading platform backend with fully authenticated REST endpoints (FastAPI, JWT + OAuth2, OpenAPI/Swagger, Postman test suites).
+- Delivered a complete MERN e-commerce solo (React, Node.js, Express, MongoDB) with JWT login, customer/admin dashboards, Docker and GitLab CI/CD.
+- Led a 3-person team (2 mobile + 1 IoT/hardware) shipping a smart-home app (React Native + Node.js/Express) streaming live Arduino sensor data, deployed on Render.
+
+PROJECTS
+Secured Banking Infrastructure (2026) - GNS3, Cisco, OpenStack, Spring Boot, Angular, Kafka, pfSense, Wazuh, Grafana
+- Conceived a secured network architecture: Cisco core switch, dual internal/external pfSense firewalls, edge router, VLAN segmentation, DNS/DHCP.
+- Deployed a microservices banking app on an OpenStack private cloud inside GNS3 with observability (Grafana, Prometheus, Loki, Wazuh) and a KYC module in JWT/RBAC. Nominated, ESPRIT Projects Ball.
+
+Windows Server & Network Services Lab (2026) - Windows Server, Active Directory, Kerberos
+- Configured Windows Server roles - FTP, DNS, DHCP - with Kerberos-based authentication/authorization and granular file permissions.
+
+Hermes Suite - E-commerce Platform (MERN) (2024 - present) - React, Node.js, MongoDB, Docker, Render
+- Full MERN e-commerce with JWT authentication and customer/admin dashboards, being matured into a multi-tenant SaaS.
+
+EDUCATION
+ESPRIM Monastir - Engineering Degree, Cybersecurity & Cloud Computing (2024 - present) - top of class
+ISIMa Mahdia - BSc, Software Engineering (2021 - 2024) - with highest honours
+Lycée Tahar Sfar, Mahdia - Baccalauréat in Mathematics (2021 - 2022)
+
+CERTIFICATIONS
+CLLMSP & CRTOM (Red Team Leaders, 2026) | Cisco CCNA 200-301 (in progress) | Full-Stack MERN (100h) | Building AI Agents (DeepLearning.AI) | n8n Workflow Automation
+
+LANGUAGES
+Arabic - native | French - bilingual | English - bilingual | German - basic
+
+LEADERSHIP, AWARENESS & COMMUNITY
+- Co-founded Hunters Club (20+ members) - CTFs across Tunisia; 2nd & 4th place at Polytech Sousse CTF; ambassador for CyberSphere Congress (Hammamet, 7th ed.); ran an n8n automation workshop for students.
+- Led the Cyber & Cloud committee at DevTalents (30+ members) - organized an LPIC-1 preparation session.
+- 2nd place, Clean & Green hackathon 2025 - regular participant in hackathons across Tunisia (incl. AGEOS).
