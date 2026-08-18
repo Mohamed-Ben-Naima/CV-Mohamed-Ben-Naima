@@ -1,0 +1,53 @@
+MOHAMED BEN NAIMA
+Intern Software Developer - Java | Object-Oriented Design | IP Networks
+Tunisia | +216 25 577 542 | Medbennaima2021@gmail.com | linkedin.com/in/mohamed-ben-naima | github.com/Mohamed-Ben-Naima | Portfolio: mohamed-ben-naima.netlify.app | English (bilingual) | French (bilingual)
+
+PROFILE
+Software engineering student (graduating June 2027) applying for the Java internship, with solid Java and object-oriented programming skills and genuine depth in IP networking - TCP/IP, VLAN segmentation, DNS/DHCP, Cisco switching, pfSense firewalls and GNS3 simulation (CCNA 200-301 in progress). Currently building a Spring Boot (Java) industrial ERP as an intern: REST APIs, OOP design, SQL and OAuth2/RBAC. Comfortable scripting in Python, using Git daily, and shipping via CI/CD pipelines. Available part-time (24+ hours/week) for at least one year, with two office days per week in Krakow.
+
+TECHNICAL SKILLS
+Java & OOP: Java 8+, Spring Boot, REST APIs, SOLID principles, design patterns, clean code
+IP Networking: TCP/IP, subnets & VLAN segmentation, DNS/DHCP, Cisco switching, pfSense, Wireshark, GNS3 (CCNA 200-301 in progress)
+Scripting & Tooling: Python (FastAPI, scripting), Git, GitLab CI/CD, GitHub Actions, Postman, Jira
+Data: SQL, MySQL, PostgreSQL, MongoDB, data modeling
+Backend: Spring Boot, FastAPI, Node.js/Express, OpenAPI/Swagger
+Infrastructure: Docker, Kubernetes, AWS, OpenStack, Linux, Windows Server
+Observability: Grafana, Prometheus, Loki, Wazuh
+
+WORK EXPERIENCE
+
+Software Engineering Intern - Full-Stack, Polymaille (Textile Industry) | Jul - Sep 2026 (present)
+- Building a full-cycle industrial ERP in Java (Spring Boot Modulith) - own the Stock & Sales modules end-to-end: domain model, event flows, REST APIs, applying object-oriented design.
+- Implementing REST APIs and SQL (MySQL, Aiven), OAuth2/JWT + RBAC (Keycloak), Redis caching, OpenAPI/Swagger and PDF invoicing; Angular frontend; deployment in progress on a Windows Server we configured.
+- Working in a 2-person team alongside the Purchasing & Production owner; documenting every module with the business lead before delivery.
+
+Backend / Full-Stack Developer, Alfa Computers | Mar 2024 - Aug 2025
+- Built a trading-platform backend in Python (FastAPI) - authenticated REST endpoints (JWT + OAuth2, OpenAPI/Swagger, Postman test suites).
+- Delivered a MERN e-commerce solo (React, Node.js, MongoDB) - Dockerized and deployed via GitLab CI/CD to Render.
+- Led a 3-person team shipping a smart-home app streaming live Arduino sensor data (React Native + Node.js/Express).
+
+PROJECTS
+
+Secured Banking Infrastructure (2026) - Java | Spring Boot | Angular | Keycloak | SQL | Kafka | IP networks | GNS3 | OpenStack
+- Java (Spring Boot) microservices banking app - one database per service, Keycloak/RBAC, Kafka async eventing, deployed on an OpenStack private cloud inside GNS3.
+- Designed the IP network layer: Cisco core switch, dual pfSense firewalls, edge router, VLAN segmentation, DNS/DHCP - with observability (Grafana, Prometheus, Loki, Wazuh). Nominated, ESPRIT Projects Ball.
+
+Windows Server & Network Services Lab (2026) - Active Directory | Kerberos | DNS | DHCP | FTP
+- Configured Windows Server roles - DNS, DHCP, FTP - with Kerberos authentication and granular file permissions.
+
+EDUCATION
+- ESPRIM Monastir - Engineering Degree, Cybersecurity & Cloud Computing (2024 - 2027) | top of class | graduating June 2027
+- ISIMa Mahdia - BSc, Software Engineering (2021 - 2024) | with highest honours
+
+CERTIFICATIONS
+Cisco CCNA 200-301 (in progress) | CLLMSP & CRTOM (Red Team Leaders) | Building AI Agents (DeepLearning.AI)
+
+LANGUAGES
+Arabic - native | French - bilingual | English - bilingual | German - basic
+
+LEADERSHIP
+- Co-founded Hunters Club (20+ members) - competitive CTFs across Tunisia; 2nd & 4th place, Polytech Sousse CTF.
+- Led the Cyber & Cloud committee at DevTalents (30+ members) - organized an LPIC-1 preparation session.
+
+AVAILABILITY
+Part-time (24+ hours/week) for at least one year; available to work two days per week at Motorola Solutions' Krakow office (Czerwone Maki 82).
