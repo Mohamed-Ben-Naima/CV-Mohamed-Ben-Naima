@@ -11,6 +11,7 @@ Current, print-ready CVs plus the editable sources (HTML) and ATS text versions.
 | SDE (EN) | — | [`ATS/SDE/cv_mohamed_ben_naima_v5.pdf`](ATS/SDE/cv_mohamed_ben_naima_v5.pdf) | [`ATS/SDE/cv_mohamed_ben_naima_v5.docx`](ATS/SDE/cv_mohamed_ben_naima_v5.docx) |
 | Optiver Graduate (EN) | [`Applications/Optiver/cv_mohamed_ben_naima_optiver.pdf`](Applications/Optiver/cv_mohamed_ben_naima_optiver.pdf) | [`ATS/Optiver/cv_mohamed_ben_naima_v5.pdf`](ATS/Optiver/cv_mohamed_ben_naima_v5.pdf) | [`Applications/Optiver/cv_mohamed_ben_naima_optiver.html`](Applications/Optiver/cv_mohamed_ben_naima_optiver.html) |
 | Motorola Java Intern (EN) | — | [`ATS/Motorola/cv_mohamed_ben_naima_v5.pdf`](ATS/Motorola/cv_mohamed_ben_naima_v5.pdf) | [`ATS/Motorola/cv_mohamed_ben_naima_v5.html`](ATS/Motorola/cv_mohamed_ben_naima_v5.html) |
+| Motorola Recruiter (EN) | — | [`Applications/Motorola/cv_mohamed_ben_naima_motorola.pdf`](Applications/Motorola/cv_mohamed_ben_naima_motorola.pdf) | [`Applications/Motorola/cv_mohamed_ben_naima_motorola.html`](Applications/Motorola/cv_mohamed_ben_naima_motorola.html) |
 
 ### Folders
 
@@ -18,7 +19,7 @@ Current, print-ready CVs plus the editable sources (HTML) and ATS text versions.
 - **`French/`** — standard full-page CV (FR) · PDF + HTML source
 - **`ATS/`** — single-column ATS-friendly versions, one folder per variant:
   - `EN/` · `FR/` · `GRC/` · `SDE/` · `Optiver/` · `Motorola/` — each with PDF + HTML + TXT (GRC & SDE also include DOCX for portals)
-- **`Applications/`** — role-specific materials, one folder per company (`Chanel-GRC/` cover letter, `Optiver/` designed CV)
+- **`Applications/`** — role-specific materials, one folder per company (`Chanel-GRC/` cover letter, `Optiver/` designed CV, `Motorola/` recruiter CV)
 
 ### Updating
 
