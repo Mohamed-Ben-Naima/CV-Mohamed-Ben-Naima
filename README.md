@@ -13,6 +13,7 @@ Current, print-ready CVs plus the editable sources (HTML) and ATS text versions.
 | Motorola Java Intern (EN) | — | [`ATS/Motorola/cv_mohamed_ben_naima_v5.pdf`](ATS/Motorola/cv_mohamed_ben_naima_v5.pdf) | [`ATS/Motorola/cv_mohamed_ben_naima_v5.html`](ATS/Motorola/cv_mohamed_ben_naima_v5.html) |
 | Motorola Recruiter (EN) | — | [`Applications/Motorola/cv_mohamed_ben_naima_motorola.pdf`](Applications/Motorola/cv_mohamed_ben_naima_motorola.pdf) | [`Applications/Motorola/cv_mohamed_ben_naima_motorola.html`](Applications/Motorola/cv_mohamed_ben_naima_motorola.html) |
 | Hutchinson Full-Stack (FR) | — | [`ATS/Hutchinson/cv_mohamed_ben_naima_v5.pdf`](ATS/Hutchinson/cv_mohamed_ben_naima_v5.pdf) | [`ATS/Hutchinson/cv_mohamed_ben_naima_v5.html`](ATS/Hutchinson/cv_mohamed_ben_naima_v5.html) |
+| Hutchinson Full-Stack (EN) | — | [`ATS/Hutchinson/cv_mohamed_ben_naima_v5_en.pdf`](ATS/Hutchinson/cv_mohamed_ben_naima_v5_en.pdf) | [`ATS/Hutchinson/cv_mohamed_ben_naima_v5_en.html`](ATS/Hutchinson/cv_mohamed_ben_naima_v5_en.html) |
 | Hutchinson Recruiter (FR) | — | [`Applications/Hutchinson/cv_hutchinson.pdf`](Applications/Hutchinson/cv_hutchinson.pdf) | [`Applications/Hutchinson/cv_hutchinson.html`](Applications/Hutchinson/cv_hutchinson.html) |
 
 ### Folders
