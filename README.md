@@ -15,6 +15,7 @@ Current, print-ready CVs plus the editable sources (HTML) and ATS text versions.
 | Hutchinson Full-Stack (FR) | — | [`ATS/Hutchinson/cv_mohamed_ben_naima_v5.pdf`](ATS/Hutchinson/cv_mohamed_ben_naima_v5.pdf) | [`ATS/Hutchinson/cv_mohamed_ben_naima_v5.html`](ATS/Hutchinson/cv_mohamed_ben_naima_v5.html) |
 | Hutchinson Full-Stack (EN) | — | [`ATS/Hutchinson/cv_mohamed_ben_naima_v5_en.pdf`](ATS/Hutchinson/cv_mohamed_ben_naima_v5_en.pdf) | [`ATS/Hutchinson/cv_mohamed_ben_naima_v5_en.html`](ATS/Hutchinson/cv_mohamed_ben_naima_v5_en.html) |
 | Hutchinson Recruiter (FR) | — | [`Applications/Hutchinson/cv_hutchinson.pdf`](Applications/Hutchinson/cv_hutchinson.pdf) | [`Applications/Hutchinson/cv_hutchinson.html`](Applications/Hutchinson/cv_hutchinson.html) |
+| Hutchinson Cover Letter (FR) | — | [`Applications/Hutchinson/cover-letter_hutchinson_pfe.pdf`](Applications/Hutchinson/cover-letter_hutchinson_pfe.pdf) | [`Applications/Hutchinson/cover-letter_hutchinson_pfe.md`](Applications/Hutchinson/cover-letter_hutchinson_pfe.md) |
 
 ### Folders
 
