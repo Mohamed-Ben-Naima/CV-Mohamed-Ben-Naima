@@ -1,29 +1,30 @@
 MOHAMED BEN NAIMA
-Full-Stack Developer | JavaScript · Angular · React · Node.js
+Full-Stack Developer | Cybersecurity & Cloud Computing Engineer
 Tunisia | +216 25 577 542 | Medbennaima2021@gmail.com | linkedin.com/in/mohamed-ben-naima | github.com/Mohamed-Ben-Naima | Portfolio: mohamed-ben-naima.netlify.app | English (bilingual) | French (bilingual)
 
 PROFILE
-Full-stack developer graduating June 2027 (ESPRIM, Cybersecurity & Cloud Computing, top of class). Two internships behind me: a production industrial ERP (Java/Spring Boot + Angular + MySQL + Keycloak) at Polymaille, and at Alfa Computers a Python (FastAPI) trading backend plus a complete MERN e-commerce. I work across web, desktop and mobile — Angular, React, Node.js, JavaFX, React Native — and I'm comfortable with SQL (MySQL, PostgreSQL, MongoDB) and Git-based workflows. I write the tests, the docs, and ship with CI/CD.
+Full-stack software engineer specialized in cybersecurity and cloud computing, building production-grade systems - secure web platforms, industrial ERPs, and cloud-deployed infrastructure. Core stack: Angular, React, Python (FastAPI), Node.js, backed by SQL/NoSQL data modeling, end-to-end authentication (JWT, OAuth2, RBAC), and cloud delivery (Docker, Kubernetes, OpenStack, AWS). Now building a complete industrial ERP as an engineering intern while transforming my MERN e-commerce platform - built at ISIMa (graduated with highest honours) - into a multi-tenant SaaS with a richer user/admin experience and smart, user-friendly features.
 
 TECHNICAL SKILLS
-Languages: JavaScript (ES6+), TypeScript, Python, Java, PHP, SQL
+Languages: Python, JavaScript/TypeScript, Java, PHP, SQL
 Frontend: Angular, React, React Native, Tailwind CSS, HTML/CSS
 Desktop: JavaFX
-Backend & APIs: Node.js/Express, Spring Boot, FastAPI, Symfony, REST, Swagger/OpenAPI
+Backend & APIs: FastAPI, Node.js/Express, Spring Boot, Symfony, REST, Swagger/OpenAPI
 Databases: MySQL, PostgreSQL, MongoDB, Oracle
 Auth & Security: JWT, OAuth2, RBAC, Keycloak
-Cloud & DevOps: Docker, GitLab CI/CD, GitHub Actions, Kubernetes, OpenStack, AWS, Render
-Methods & Tools: Agile (SCRUM / KANBAN), Git, Postman, Jira, UML, technical documentation
+Architecture Patterns: modular monolith (Spring Modulith), microservices, event-driven design
+Cloud & DevOps: Docker, Kubernetes, GitLab CI/CD, GitHub Actions, OpenStack, AWS, Render
 Networking: Cisco switching, pfSense, VLANs, DNS/DHCP, Wireshark
-Observability: Grafana, Prometheus, Loki, Wazuh, Kafka
 OS: Ubuntu, Kali, Windows Server
+Observability: Grafana, Prometheus, Loki, Wazuh, Kafka
+Tools: Git, Postman, Jira, UML, Agile (SCRUM / KANBAN)
 
 EXPERIENCE
 
-Software Engineering Intern — Full-Stack, Polymaille (Textile Industry) | Ksar Hellal, Tunisia · Jul – Sep 2026 (present)
-- Building a full-cycle ERP for Microtiss Confect as a Spring Boot Modulith with an Angular frontend — covering purchase, stock, production and sales — supplier orders, approval workflow, delivery notes, invoices and payments, with deployment in progress on a team-configured Windows Server.
-- Designed the MySQL relational model & REST API, enforcing data integrity and security through role-based access control (RBAC); warehouse, production and finance teams share the same data with granular permissions.
-- Wrote the test suites (Postman) and technical documentation before each delivery; scoped every module end-to-end with the business lead in short iterations.
+Software Engineering Intern - Full-Stack, Polymaille (Textile Industry) | Ksar Hellal, Tunisia · Jul – Sep 2026 (present)
+- Building a full-cycle ERP as a Spring Boot Modulith (modular monolith) for Microtiss Confect - covering purchase, stock, production and sales - supplier orders, approval workflow, delivery notes, invoices and payments - one trusted source of truth across four business cycles, with deployment in progress on a team-configured Windows Server.
+- Designed the relational model & REST API, enforcing data integrity and security through role-based access control (RBAC); warehouse, production and finance teams share the same data with granular permissions.
+- Owned scoping end-to-end with the business lead: every module framed with the user and validated before delivery.
 
 Full-Stack / Backend / Mobile Developer, Alfa Computers | Mahdia, Tunisia · Mar 2024 – Aug 2025 (PFE, IoT mobile, backend internships)
 - Built "The Hive" trading platform backend, serving the web client through fully authenticated REST endpoints, by implementing FastAPI (Python), JWT + OAuth2, OpenAPI/Swagger and Postman test suites.
@@ -32,33 +33,33 @@ Full-Stack / Backend / Mobile Developer, Alfa Computers | Mahdia, Tunisia · Mar
 
 PROJECTS
 
-MiraviaSpace — Travel & Social Platform (2025, team of 6) — Symfony (web) · JavaFX (desktop) · Oracle · In-house AI chatbot (MiraBot)
-- Owned the entire client side: account creation/login, client dashboard, search across flights/hotels/offers, and local-immersion flows (volunteering, events, activities) — delivered as both a Symfony web app and a JavaFX desktop client.
-- Runner-up, ESPRIT Projects Ball (nominated by ESPRIM).
+Secured Banking Infrastructure (2026) - microservices · Spring Boot · Angular · Keycloak · SQL/MySQL · Kafka · OpenStack · GNS3 · AWS · GitHub Actions · Grafana · Prometheus · Wazuh
+- Conceived a secured network architecture: Cisco core switch, dual internal/external pfSense firewalls, edge router, Ubuntu server, VLAN segmentation, DNS/DHCP.
+- Architected a microservices banking app (Spring Boot, Angular, Keycloak, SQL/MySQL - one database per service) on an OpenStack private cloud inside GNS3, with Kafka async eventing, CI/CD (JAR auto-deploy) and an AWS golden-image to OpenStack VM pipeline.
+- Observability with Grafana, Prometheus, Loki, Wazuh; KYC module in JWT/RBAC. Nominated, ESPRIT Projects Ball.
 
-Secured Banking Infrastructure (2026) — microservices · Spring Boot · Angular · Keycloak · SQL/MySQL · Kafka · GNS3 · OpenStack
-- Architected a microservices banking app (Spring Boot, Angular, Keycloak, SQL/MySQL — one database per service) on an OpenStack private cloud inside GNS3, with Kafka async eventing and CI/CD.
-- Conceived the secured network architecture: Cisco core switch, dual pfSense firewalls, edge router, VLAN segmentation, DNS/DHCP; observability with Grafana, Prometheus, Loki, Wazuh. Nominated, ESPRIT Projects Ball.
+Hermes Suite - E-commerce Platform (MERN) (2024 - present) - React · Node.js · Express · MongoDB Atlas · Render · Netlify
+- Full MERN e-commerce platform - product catalogue, cart, checkout, orders, PDF invoices - built at ISIMa, now being matured into a multi-tenant SaaS with an enhanced user/admin experience and smart, user-friendly features.
 
-Hermes — E-commerce Platform (MERN) (2024 – present) — React · Node.js · Express · MongoDB · Render
-- Full MERN e-commerce — product catalogue, cart, checkout, orders, PDF invoices — built at ISIMa, now being matured into a multi-tenant SaaS with an enhanced user/admin experience.
+MiraviaSpace - Travel & Social Platform (team of 6) (2025) - Symfony · Oracle · JavaFX · In-house AI chatbot (MiraBot)
+- Owned the entire client side: account creation/login, client dashboard, search across flights/hotels/cars/offers, and local-immersion flows (volunteering, events, activities). Runner-up, ESPRIT Projects Ball.
 
-Windows Server & Network Services Lab (academic) (2026) — Windows Server · Active Directory · Kerberos
-- Configured Windows Server roles — FTP, DNS, DHCP — with Kerberos-based authentication/authorization and granular file permissions.
+Windows Server & Network Services Lab (academic) (2026) - Windows Server · Active Directory · Kerberos
+- Configured Windows Server roles - FTP, DNS, DHCP - with Kerberos-based authentication/authorization and granular file permissions.
 
 EDUCATION
-- ESPRIM Monastir — Engineering Degree, Cybersecurity & Cloud Computing (2024 – present) | top of class
-- ISIMa Mahdia — BSc, Software Engineering (2021 – 2024) | with highest honours
-- Lycée Tahar Sfar, Mahdia — Baccalauréat in Mathematics (2021 – 2022)
+- ESPRIM Monastir - Engineering Degree, Cybersecurity & Cloud Computing (2024 - present) | top of class
+- ISIMa Mahdia - BSc, Software Engineering (2021 - 2024) | with highest honours
+- Lycée Tahar Sfar, Mahdia - Baccalauréat in Mathematics (2021 - 2022)
 
 CERTIFICATIONS
-Cisco CCNA 200-301 (in progress) | CLLMSP & CRTOM (Red Team Leaders, 2026) | Full-Stack MERN (100h) | Building AI Agents (DeepLearning.AI) | n8n Workflow Automation
+CLLMSP & CRTOM (Red Team Leaders, 2026) | Cisco CCNA 200-301 (in progress) | Full-Stack MERN (100h) | Building AI Agents (DeepLearning.AI) | n8n Workflow Automation
 
 LANGUAGES
-Arabic — native | French — bilingual | English — bilingual | German — basic
+Arabic - native | French - bilingual | English - bilingual | German - basic
 
 LEADERSHIP & BEYOND WORK
-- Co-founded Hunters Club (20+ members) — CTFs across Tunisia; 2nd & 4th place at Polytech Sousse CTF; ran an n8n automation workshop for students.
-- Led the Cyber & Cloud committee at DevTalents (30+ members) — organized an LPIC-1 preparation session.
-- 2nd place, Clean & Green hackathon 2025 — regular hackathon participant across Tunisia.
-- Earlier jobs: lifeguard (Mouradi hotel), barista, waiter, construction worker — teamwork and calm under pressure.
+- Co-founded Hunters Club (20+ members) - CTFs across Tunisia; 2nd & 4th place at Polytech Sousse CTF; ambassador for CyberSphere Congress (Hammamet, 7th ed.); ran an n8n automation workshop for students.
+- Led the Cyber & Cloud committee at DevTalents (30+ members) - organized an LPIC-1 preparation session
+- 2nd place, Clean & Green hackathon 2025 - regular participant in hackathons across Tunisia (incl. AGEOS)
+- Former lifeguard (Mouradi hotel), barista, waiter and construction worker - teamwork and calm under pressure
