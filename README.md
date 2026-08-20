@@ -16,6 +16,7 @@ Current, print-ready CVs plus the editable sources (HTML) and ATS text versions.
 | Hutchinson Full-Stack (EN) | — | [`ATS/Hutchinson/cv_mohamed_ben_naima_v5_en.pdf`](ATS/Hutchinson/cv_mohamed_ben_naima_v5_en.pdf) | [`ATS/Hutchinson/cv_mohamed_ben_naima_v5_en.html`](ATS/Hutchinson/cv_mohamed_ben_naima_v5_en.html) |
 | Hutchinson Recruiter (FR) | [`Applications/Hutchinson/cv_hutchinson.pdf`](Applications/Hutchinson/cv_hutchinson.pdf) | — | [`Applications/Hutchinson/cv_hutchinson.html`](Applications/Hutchinson/cv_hutchinson.html) |
 | Hutchinson Cover Letter (FR) | [`Applications/Hutchinson/cover-letter_hutchinson_cdi.pdf`](Applications/Hutchinson/cover-letter_hutchinson_cdi.pdf) | — | [`Applications/Hutchinson/cover-letter_hutchinson_cdi.md`](Applications/Hutchinson/cover-letter_hutchinson_cdi.md) |
+| Amazon SDE Intern 2027 (EN) | — | — | [`Applications/Amazon/cover-letter_amazon_sde_intern_2027.md`](Applications/Amazon/cover-letter_amazon_sde_intern_2027.md) |
 
 ### Folders
 
@@ -28,8 +29,7 @@ Current, print-ready CVs plus the editable sources (HTML) and ATS text versions.
 - **`Applications/`** — polished, recruiter-facing materials, one folder per company:
   - `Optiver/` — designed two-column CV
   - `Motorola/` · `Hutchinson/` — designed single-column recruiter CV
-  - `Chanel-GRC/` — cover letter
-  - `Hutchinson/` — cover letter
+  - `Chanel-GRC/` · `Hutchinson/` · `Amazon/` — cover letters
 
 ### Updating
 
