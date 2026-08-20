@@ -5,8 +5,8 @@ Current, print-ready CVs plus the editable sources (HTML) and ATS text versions.
 
 | Version | Design PDF | ATS PDF | Sources |
 |---------|-----------|---------|---------|
-| English | [`English/cv_mohamed_ben_naima_v5.pdf`](English/cv_mohamed_ben_naima_v5.pdf) | [`ATS/EN/cv_mohamed_ben_naima_v5.pdf`](ATS/EN/cv_mohamed_ben_naima_v5.pdf) | [`English/cv_mohamed_ben_naima_v5.html`](English/cv_mohamed_ben_naima_v5.html) |
-| French | [`French/cv_mohamed_ben_naima_v5_fr.pdf`](French/cv_mohamed_ben_naima_v5_fr.pdf) | [`ATS/FR/cv_mohamed_ben_naima_v5.pdf`](ATS/FR/cv_mohamed_ben_naima_v5.pdf) | [`French/cv_mohamed_ben_naima_v5_fr.html`](French/cv_mohamed_ben_naima_v5_fr.html) |
+| English (standard) | — | [`ATS/EN/cv_mohamed_ben_naima_v5.pdf`](ATS/EN/cv_mohamed_ben_naima_v5.pdf) | [`ATS/EN/cv_mohamed_ben_naima_v5.html`](ATS/EN/cv_mohamed_ben_naima_v5.html) |
+| French (standard) | — | [`ATS/FR/cv_mohamed_ben_naima_v5.pdf`](ATS/FR/cv_mohamed_ben_naima_v5.pdf) | [`ATS/FR/cv_mohamed_ben_naima_v5.html`](ATS/FR/cv_mohamed_ben_naima_v5.html) |
 | GRC (EN) | — | [`ATS/GRC/cv_mohamed_ben_naima_v5.pdf`](ATS/GRC/cv_mohamed_ben_naima_v5.pdf) | [`ATS/GRC/cv_mohamed_ben_naima_v5.docx`](ATS/GRC/cv_mohamed_ben_naima_v5.docx) |
 | SDE (EN) | — | [`ATS/SDE/cv_mohamed_ben_naima_v5.pdf`](ATS/SDE/cv_mohamed_ben_naima_v5.pdf) | [`ATS/SDE/cv_mohamed_ben_naima_v5.docx`](ATS/SDE/cv_mohamed_ben_naima_v5.docx) |
 | Optiver Graduate (EN) | [`Applications/Optiver/cv_mohamed_ben_naima_optiver.pdf`](Applications/Optiver/cv_mohamed_ben_naima_optiver.pdf) | [`ATS/Optiver/cv_mohamed_ben_naima_v5.pdf`](ATS/Optiver/cv_mohamed_ben_naima_v5.pdf) | [`Applications/Optiver/cv_mohamed_ben_naima_optiver.html`](Applications/Optiver/cv_mohamed_ben_naima_optiver.html) |
@@ -20,8 +20,6 @@ Current, print-ready CVs plus the editable sources (HTML) and ATS text versions.
 
 ### Folders
 
-- **`English/`** — standard full-page CV (EN) · PDF + HTML source
-- **`French/`** — standard full-page CV (FR) · PDF + HTML source
 - **`ATS/`** — single-column ATS-friendly versions, one folder per target, each with PDF + HTML + TXT:
   - `EN/` · `FR/` — generic
   - `GRC/` · `SDE/` — role-specific (also add DOCX for portals)
