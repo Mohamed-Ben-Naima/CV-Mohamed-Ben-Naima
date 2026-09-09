@@ -1,0 +1,69 @@
+Mohamed Ben Naima
+Développeur Full Stack | Cybersécurité
+
+Tunisie | +216 25 577 542 | Medbennaima2021@gmail.com | https://linkedin.com/in/mohamed-ben-naima | https://github.com/Mohamed-Ben-Naima
+https://mohamed-ben-naima.netlify.app
+
+PROFIL
+Étudiant-ingénieur en cybersécurité et cloud computing (ESPRIM), avec une solide expérience en développement full stack et une conscience sécuritaire renforcée. Développe des applications web modernes, des API REST sécurisées et des portails d'administration avec React, Angular, Node.js et FastAPI. Sensibilisé aux principes OWASP et aux outils SOC (Grafana, Wazuh, Prometheus).
+
+COMPÉTENCES TECHNIQUES
+Front-End: React, React Native, Angular, Vue.js, HTML5/CSS3, JavaScript/TypeScript, Tailwind CSS
+Back-End: Node.js/Express, Python/FastAPI, ASP.NET Core, Spring Boot, REST API, Swagger/OpenAPI
+Bases de données: MySQL, PostgreSQL, SQL Server, MongoDB, Oracle, Entity Framework Core
+Cybersécurité: OWASP Top 10, JWT, OAuth2, RBAC, Keycloak, API Security, pare-feu pfSense
+Réseau: Switches Cisco, routeurs, segmentation VLAN, TCP/IP, DNS/DHCP, pare-feu pfSense, architecture réseau sécurisée
+SOC/SIEM: Grafana, Prometheus, Loki, Wazuh, gestion des logs, analyse de vulnérabilités
+Cloud & Virtualisation: OpenStack, GNS3, AWS, Docker, Kubernetes, Git, GitHub Actions, GitLab CI/CD
+Méthodologie: Agile (Scrum/Kanban), tests unitaires (xUnit), revue de code, documentation technique
+
+EXPÉRIENCE
+
+Stage Ingénieur - Développeur Full Stack
+Polymaille (Industrie Textile), Ksar Hellal, Tunisie
+Jul 2026 - Sep 2026 (présent)
+* Développement d'un ERP complet en Spring Boot Modulith pour Microtiss Confect - achat, stock, production, ventes - déployé sur Windows Server.
+* Conception du modèle relationnel et de l'API REST avec RBAC pour garantir l'intégrité des données.
+* Scoping avec le responsable métier : chaque module validé avant livraison.
+Compétences: Java, Spring Boot, MySQL, Keycloak, OAuth2, RBAC, Angular, Tailwind CSS
+
+Développeur Full Stack / Backend / Mobile
+Alfa Computers, Mahdia, Tunisie
+Mar 2024 - Août 2025 (3 stages: PFE, IoT mobile, backend)
+* Développement du backend de The Hive (plateforme de trading) : FastAPI, JWT + OAuth2, Swagger, Postman.
+* Livraison d'une plateforme e-commerce MERN complète (React, Node.js, Express, MongoDB) avec Docker et CI/CD.
+* Direction d'une équipe de 3 personnes pour une application React Native connectée à des capteurs Arduino.
+Compétences: Python, FastAPI, React, Node.js, Express, MongoDB, Docker, GitLab CI/CD
+
+PROJETS
+
+Infrastructure Bancaire Sécurisée (2026) - 18/20, Nominé Bal des Projets ESPRIT
+Spring Boot | Angular | Keycloak | Kafka | OpenStack | GNS3 | AWS | Grafana | Wazuh
+* Conception d'une architecture réseau sécurisée : switch Cisco, pare-feu pfSense, segmentation VLAN, routage TCP/IP, services DNS/DHCP.
+* Déploiement d'une application bancaire microservices sur cloud OpenStack privé inside GNS3, avec Kafka pour l'événementiel async et CI/CD automatique.
+* Pipeline de déploiement AWS vers OpenStack (golden image → VM), avec observabilité Grafana/Prometheus/Loki/Wazuh et module KYC JWT/RBAC.
+
+Système DAB - Distributeur Automatique (2026)
+ASP.NET Core 8 | Entity Framework Core | SQL Server | JWT | Docker | xUnit (36 tests)
+* Application bancaire multi-niveaux: Web API (JWT, RFC-7807, Serilog) + portail MVC (ASP.NET Identity).
+* Moteur de transactions ACID, hachage PIN, limites de retrait, gestion des cartes, litiges de fraude.
+* 36 tests xUnit, CI/CD GitHub Actions, déploiement Docker + docker-compose.
+
+Hermes Suite - Plateforme E-commerce (2024 - présent) - Mention Très Bien
+React | Node.js | Express | MongoDB Atlas | Render | Netlify
+* Plateforme e-commerce complète - catalogue, panier, paiement, commandes, factures PDF - en cours de transformation en SaaS multi-tenant.
+
+MiraviaSpace - Plateforme Voyage & Sociale (2025) - Finaliste, Bal des Projets ESPRIT
+Symfony | Oracle | JavaFX | Chatbot IA (MiraBot) | Équipe de 6
+* Côté client complet: inscription/connexion, tableau de bord, recherche vols/hôtels/véhicules, flux d'immersion locale.
+
+FORMATION
+ESPRIM Monastir - Diplôme d'ingénieur, Cybersécurité & Cloud Computing (2024 - présent)
+ISIMa Mahdia - Licence, Génie Logiciel (2021 - 2024) - mention très bien
+Lycée Tahar Sfar, Mahdia - Baccalauréat Mathématiques (2021 - 2022)
+
+CERTIFICATIONS
+CLLMSP et CRTOM (Red Team Leaders, 2026) | Building AI Agents (DeepLearning.AI) | n8n Workflow Automation
+
+LANGUES
+Arabe - maternel | Français - bilingue | Anglais - bilingue | Allemand - notions

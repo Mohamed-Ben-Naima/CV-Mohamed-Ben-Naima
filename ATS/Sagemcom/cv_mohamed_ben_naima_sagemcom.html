@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Mohamed Ben Naima - CV</title>
+<style>
+  @page { size: A4; margin: 0; }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 9pt;
+    color: #2d2d2d;
+    background: #fff;
+    width: 210mm;
+    height: 297mm;
+    padding: 9mm 13mm 9mm 13mm;
+    line-height: 1.3;
+    overflow: hidden;
+  }
+  .header { margin-bottom: 6pt; }
+  .name { font-size: 22pt; font-weight: 700; color: #111; letter-spacing: -0.3pt; margin-bottom: 1pt; }
+  .tagline { font-size: 9.5pt; color: #4a6fa5; font-weight: 500; margin-bottom: 4pt; }
+  .contact { font-size: 8pt; color: #666; line-height: 1.5; }
+  .sec { margin-bottom: 4pt; }
+  .sec-title {
+    font-size: 9.5pt; font-weight: 700; color: #111;
+    text-transform: uppercase; letter-spacing: 0.6pt;
+    border-bottom: 1.3pt solid #4a6fa5; padding-bottom: 1.5pt; margin-bottom: 3pt;
+  }
+  .profile-text { font-size: 8.5pt; color: #444; line-height: 1.45; }
+  .sk { font-size: 8.2pt; color: #444; margin-bottom: 1.5pt; line-height: 1.35; }
+  .sk b { color: #222; }
+  .ent { margin-bottom: 5pt; }
+  .ent-top { display: flex; justify-content: space-between; align-items: baseline; }
+  .ent-title { font-size: 9.2pt; font-weight: 700; color: #111; }
+  .ent-date { font-size: 7.5pt; color: #888; font-style: italic; white-space: nowrap; }
+  .ent-sub { font-size: 8.5pt; color: #4a6fa5; font-weight: 500; margin-bottom: 1.5pt; }
+  .ent-tech { font-size: 7.2pt; color: #999; margin-bottom: 2pt; letter-spacing: 0.2pt; }
+  .ent ul { margin-left: 10pt; font-size: 8.5pt; color: #444; }
+  .ent li { margin-bottom: 1pt; }
+  .edu { font-size: 8.5pt; color: #444; margin-bottom: 2pt; padding-left: 7pt; text-indent: -7pt; }
+  .edu::before { content: "\2022 "; color: #4a6fa5; }
+  .edu strong { color: #222; }
+  .cert { font-size: 8.5pt; color: #444; margin-bottom: 1.5pt; line-height: 1.4; }
+  .lang { font-size: 8.5pt; color: #444; }
+</style>
+</head>
+<body>
+<div class="header">
+  <div class="name">Mohamed Ben Naima</div>
+  <div class="tagline">Analyste SOC Junior | Cybersécurité &amp; Cloud</div>
+  <div class="contact">Tunisie | +216 25 577 542 | Medbennaima2021@gmail.com | https://linkedin.com/in/mohamed-ben-naima | https://github.com/Mohamed-Ben-Naima<br>https://mohamed-ben-naima.netlify.app</div>
+</div>
+<div class="sec"><div class="sec-title">Profil</div><div class="profile-text">Étudiant-ingénieur en cybersécurité et cloud computing (ESPRIM), avec une expérience pratique en SOC : surveillance, détection d'incidents, analyse de logs et réponse aux alertes via Wazuh, Grafana, Prometheus et Loki. Compétences en développement Python (FastAPI) et automatisation de pipelines CI/CD. Sensibilisé aux principes DevSecOps et aux outils de monitoring réseau.</div></div>
+<div class="sec"><div class="sec-title">Compétences Techniques</div>
+<div class="sk"><b>SOC / SIEM:</b> Wazuh (détection, alertes, règles), Grafana (dashboards, visualisation), Prometheus (métriques), Loki (logs), analyse de logs réseau</div>
+<div class="sk"><b>Cybersécurité:</b> OWASP Top 10, JWT, OAuth2, RBAC, Keycloak, pare-feu pfSense, API Security, Nessus (vulnerability scanning)</div>
+<div class="sk"><b>Réseau:</b> Switches Cisco, routeurs, segmentation VLAN, DMZ, TCP/IP, DNS/DHCP, architecture pare-feu, surveillance réseau</div>
+<div class="sk"><b>Python / IA:</b> FastAPI, automatisation de scripts, analyse de données, notion IA/ML (Building AI Agents - DeepLearning.AI)</div>
+<div class="sk"><b>DevSecOps:</b> Docker, Kubernetes, Git, GitHub Actions, GitLab CI/CD, OpenStack, GNS3, AWS</div>
+</div>
+<div class="sec"><div class="sec-title">Expérience</div>
+<div class="ent"><div class="ent-top"><span class="ent-title">Stage Ingénieur - Développeur Full Stack</span><span class="ent-date">Jul 2026 - Sep 2026 (présent)</span></div><div class="ent-sub">Polymaille (Industrie Textile), Ksar Hellal, Tunisie</div><ul><li>Conception et développement from scratch d'un ERP modulith (Spring Boot Modulith + MySQL) — 5 modules : Production, Purchasing, Stock, Ventes, Security.</li><li>Mise en place de l'architecture modulith : séparation des modules, communication événementielle, API REST avec SpringDoc/OpenAPI (Swagger).</li><li>Sécurisation avec Spring Security + OAuth2 (JWT) et Keycloak (IAM) — gestion des rôles et permissions RBAC.</li><li>Containerisation Docker + Docker Compose (Keycloak, MySQL, Redis), monitoring avec Redis + Caffeine (cache).</li><li>Tests d'intégration avec Testcontainers (MySQL) et JUnit 5.</li></ul><div class="ent-tech">Compétences: Java 17, Spring Boot 4.1, Spring Modulith, Spring Security, OAuth2, Keycloak, MySQL, Docker, Redis, MapStruct, SpringDoc</div></div>
+<div class="ent"><div class="ent-top"><span class="ent-title">Développeur Full Stack / Backend / Mobile</span><span class="ent-date">Mar 2024 - Août 2025</span></div><div class="ent-sub">Alfa Computers, Mahdia, Tunisie (3 stages: PFE, IoT mobile, backend)</div><ul><li>Développement du backend de The Hive (plateforme de trading) : FastAPI, JWT + OAuth2, Swagger.</li><li>Livraison d'une plateforme e-commerce MERN complète avec Docker et CI/CD.</li></ul><div class="ent-tech">Compétences: Python, FastAPI, React, Node.js, Docker, GitLab CI/CD</div></div>
+</div>
+<div class="sec"><div class="sec-title">Projets</div>
+<div class="ent"><div class="ent-top"><span class="ent-title">Infrastructure Bancaire Sécurisée (2026)</span><span class="ent-date">18/20, Nominé Bal des Projets ESPRIT</span></div><div class="ent-tech">GNS3 | OpenStack | Wazuh | Grafana | Prometheus | Loki | pfSense | Cisco</div><ul><li>Architecture réseau sécurisée : switch Cisco, pare-feu pfSense, segmentation VLAN, DMZ, routage TCP/IP.</li><li>SOC complet sur GNS3/OpenStack : Wazuh (détection d'intrusion), Grafana + Prometheus (monitoring temps réel), Loki (centralisation des logs).</li><li>Pare-feu pfSense configuré pour le filtrage réseau et la segmentation des zones de sécurité.</li><li>Application bancaire microservices avec observabilité SOC et module KYC JWT/RBAC.</li></ul></div>
+<div class="ent"><div class="ent-top"><span class="ent-title">Système DAB - Distributeur Automatique (2026)</span><span class="ent-date"></span></div><div class="ent-tech">Monolith | ASP.NET Core 8 | SQL Server | JWT | Docker | xUnit (36 tests)</div><ul><li>Application bancaire monolithique : Web API (JWT, RFC-7807, Serilog) + portail MVC.</li><li>36 tests xUnit, CI/CD GitHub Actions, déploiement Docker + docker-compose.</li></ul></div>
+<div class="ent"><div class="ent-top"><span class="ent-title">Hermes Suite - Plateforme E-commerce (2024 - présent)</span><span class="ent-date">Mention Très Bien</span></div><div class="ent-tech">Monolith | React | Node.js | Express | MongoDB Atlas</div><ul><li>Plateforme e-commerce complète — catalogue, panier, paiement, commandes, factures PDF.</li></ul></div>
+</div>
+<div class="sec"><div class="sec-title">Formation</div>
+<div class="edu"><strong>ESPRIM Monastir</strong> - Diplôme d'ingénieur, Cybersécurité &amp; Cloud Computing (2024 - présent)</div>
+<div class="edu"><strong>ISIMa Mahdia</strong> - Licence, Génie Logiciel (2021 - 2024) - mention très bien</div>
+<div class="edu"><strong>Lycée Tahar Sfar, Mahdia</strong> - Baccalauréat Mathématiques (2021 - 2022)</div>
+</div>
+<div class="sec"><div class="sec-title">Certifications</div>
+<div class="cert">Certified Red Team (CRTOM) · Certified Phishing Prevention Specialist (CPPS) · Cybersecurity Career Starter (CCSC) · Nessus Vulnerability Scanning · Building AI Agents (DeepLearning.AI) · n8n Workflow Automation</div>
+</div>
+<div class="sec"><div class="sec-title">Langues</div><div class="lang">Arabe - maternel | Français - bilingue | Anglais - bilingue | Allemand - notions</div></div>
+</body></html>

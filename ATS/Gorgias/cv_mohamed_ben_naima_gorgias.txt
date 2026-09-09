@@ -1,0 +1,70 @@
+Mohamed Ben Naima
+Full-Stack Software Engineer | Node.js, React & Cloud
+
+Tunisia | +216 25 577 542 | Medbennaima2021@gmail.com | https://linkedin.com/in/mohamed-ben-naima | https://github.com/Mohamed-Ben-Naima
+https://mohamed-ben-naima.netlify.app
+
+PROFILE
+Full-stack software engineer with hands-on experience building microservices, event-driven architectures, and cloud-native applications. Specialized in Node.js/Express backends, React frontends, and observability stacks (Grafana, Prometheus, Loki). Built and deployed production systems using Docker, Kubernetes, and CI/CD pipelines. Seeking to contribute to scalable AI-driven platforms in a fast-paced engineering environment.
+
+TECHNICAL SKILLS
+Languages: JavaScript/TypeScript, Python, C#/.NET, Java, PHP, SQL
+Frontend: React, React Native, Angular, Vue.js, Tailwind CSS, HTML/CSS
+Backend: Node.js/Express, NestJS, ASP.NET Core, FastAPI, Spring Boot, REST APIs
+Databases: MongoDB, PostgreSQL, MySQL, SQL Server, Redis, Entity Framework Core
+Cloud & DevOps: Docker, Kubernetes, AWS, OpenStack, GitHub Actions, GitLab CI/CD, Render
+Observability: Grafana, Prometheus, Loki, Wazuh, Serilog, structured logging
+Architecture: Microservices, event-driven (Kafka), serverless, RESTful API design
+Auth & Security: JWT, OAuth2, RBAC, Keycloak, antiforgery tokens
+Tools: Git, Postman, Jira, UML, Datadog (familiar), OpenTelemetry (familiar)
+
+EXPERIENCE
+
+Software Engineering Intern - Full-Stack
+Polymaille (Textile Industry), Ksar Hellal, Tunisia
+Jul 2026 - Sep 2026 (present)
+* Building a full-cycle ERP as a Spring Boot Modulith for Microtiss Confect - purchase, stock, production and sales - one trusted source of truth across four business cycles, deployed on Windows Server.
+* Designed the relational model and REST API, enforcing data integrity through RBAC; warehouse, production and finance teams share the same data with granular permissions.
+* Owned scoping end-to-end with the business lead: every module framed with the user and validated before delivery.
+Technical skills: Java, Spring Boot, Spring Modulith, MySQL, Keycloak, OAuth2, RBAC, Angular, Tailwind CSS, Redis
+
+Full-Stack / Backend / Mobile Developer
+Alfa Computers, Mahdia, Tunisia
+Mar 2024 - Aug 2025 (3 internships: PFE, IoT mobile, backend)
+* Built The Hive trading platform backend: FastAPI, JWT + OAuth2, OpenAPI/Swagger, Postman test suites.
+* Delivered a complete MERN e-commerce platform (React, Node.js, Express, MongoDB) with JWT auth, catalog, cart, dashboards - containerized with Docker, CI/CD via GitLab to Render.
+* Led a 3-person team to ship a smart-home app (React Native + Node.js/Express) streaming live Arduino sensor data, deployed on Render.
+Technical skills: Python, FastAPI, React, Node.js, Express, MongoDB, React Native, Docker, GitLab CI/CD, JWT, OAuth2
+
+PROJECTS
+
+Secured Banking Infrastructure (2026) - 18/20, Nominated ESPRIT Projects Ball
+Spring Boot | Angular | Keycloak | SQL/MySQL | Kafka | OpenStack | GNS3 | AWS
+* Conceived a secured network architecture: Cisco core switch, dual pfSense firewalls, VLAN segmentation, DNS/DHCP.
+* Architected a microservices banking app on OpenStack private cloud inside GNS3, with Kafka async eventing and CI/CD (JAR auto-deploy).
+* Observability with Grafana, Prometheus, Loki, Wazuh; KYC module with JWT/RBAC.
+
+DAB Banking System - Automated Teller Machine (2026)
+ASP.NET Core 8 | Entity Framework Core | SQL Server | JWT | Docker | xUnit (36 tests)
+* Built a multi-tier banking application: Web API (JWT auth, RFC-7807 problem details, Serilog) + MVC portal (ASP.NET Identity, cookie auth).
+* Implemented transaction engine with ACID compliance, PIN hashing, daily withdrawal limits, card management, fraud dispute workflow with automatic refunds.
+* 36 xUnit tests (SQLite in-memory), CI/CD (GitHub Actions), Docker + docker-compose deployment.
+
+Hermes Suite - E-commerce Platform (2024 - present) - With Highest Honours
+React | Node.js | Express | MongoDB Atlas | Render | Netlify
+* Full MERN e-commerce platform - catalogue, cart, checkout, orders, PDF invoices - now being matured into a multi-tenant SaaS.
+
+MiraviaSpace - Travel & Social Platform (2025) - Runner-up, ESPRIT Projects Ball
+Symfony | Oracle | JavaFX | In-house AI chatbot (MiraBot) | Team of 6
+* Owned the entire client side: account creation/login, dashboard, search across flights/hotels/cars/offers, and local-immersion flows.
+
+EDUCATION
+ESPRIM Monastir - Engineering Degree, Cybersecurity & Cloud Computing (2024 - present) - top of class
+ISIMa Mahdia - BSc, Software Engineering (2021 - 2024) - with highest honours
+Lycee Tahar Sfar, Mahdia - Baccalaureat in Mathematics (2021 - 2022)
+
+CERTIFICATIONS
+CLLMSP and CRTOM (Red Team Leaders, 2026) | Building AI Agents (DeepLearning.AI) | n8n Workflow Automation
+
+LANGUAGES
+Arabic - native | French - bilingual | English - bilingual | German - basic

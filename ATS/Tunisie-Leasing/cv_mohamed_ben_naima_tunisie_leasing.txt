@@ -1,0 +1,57 @@
+Mohamed Ben Naima
+Ingénieur Infrastructure & Systèmes
+
+Tunisie | +216 25 577 542 | Medbennaima2021@gmail.com | https://linkedin.com/in/mohamed-ben-naima | https://github.com/Mohamed-Ben-Naima
+
+PROFIL
+Diplômé en cybersécurité et cloud computing (ESPRIM), avec une solide expérience pratique en administration systèmes, virtualisation et infrastructures réseaux acquise au travers de projets académiques et personnels. Compétences en Windows Server (AD, DNS, DHCP, GPO), Linux (Ubuntu, CentOS, AlmaLinux), virtualisation (VMware, VirtualBox) et monitoring (Wazuh, Grafana, Prometheus). Sensibilisé aux bonnes pratiques de cybersécurité et à la documentation technique.
+
+COMPÉTENCES TECHNIQUES
+Systèmes d'exploitation: Windows Server (2016/2019/2022) — Active Directory, DNS, DHCP, GPO, gestion des comptes utilisateurs et des droits d'accès
+Linux: Ubuntu Server, CentOS, AlmaLinux — administration, services réseaux, gestion des paquets, permissions
+Virtualisation: VMware (ESXi, vSphere), Oracle VirtualBox — création et gestion de VMs, snapshots, réseau virtuel
+Réseau: TCP/IP, DNS, DHCP, segmentation VLAN, DMZ, pfSense, switches Cisco, architecture réseau multi-zones (GNS3)
+Stockage: RAID (0, 1, 5, 10), gestion des disques, partitionnement
+Monitoring: Wazuh (SIEM), Grafana (dashboards), Prometheus (métriques), surveillance des performances serveurs
+Sécurité: Cybersécurité appliquée, gestion des correctifs, politiques de sécurité, pare-feu pfSense
+Conteneurisation: Docker, Docker Compose — déploiement d'applications conteneurisées
+Documentation: Rédaction de documentation technique, schémas d'architecture
+
+EXPÉRIENCE
+
+Stage Ingénieur — Développeur Full Stack
+Polymaille (Industrie Textile), Ksar Hellal, Tunisie
+Juil 2026 — Sep 2026
+* Administration et déploiement de l'infrastructure sur Windows Server : configuration des services réseau, gestion des utilisateurs et des droits d'accès.
+* Mise en place de Docker Compose pour le conteneurisation de l'application (Keycloak, MySQL, Redis).
+* Configuration des politiques de sécurité et des accès RBAC via Keycloak (IAM).
+
+Développeur Full Stack / Backend / Mobile
+Alfa Computers, Mahdia, Tunisie
+Mar 2024 — Août 2025 (3 stages)
+* Administration de serveurs Linux (Ubuntu) pour le déploiement d'APIs et d'applications web.
+* Mise en place de pipelines CI/CD avec Docker et GitLab CI/CD.
+
+PROJETS
+
+Infrastructure Bancaire Sécurisée (2026) — 18/20, Nominé Bal des Projets ESPRIT
+* Conception et déploiement d'une architecture réseau complète sur GNS3 : switches Cisco, pare-feu pfSense, segmentation VLAN, DMZ, DNS, DHCP, routage TCP/IP.
+* Administration de services Active Directory, DNS et DHCP sur Windows Server dans un environnement virtualisé.
+* Mise en place d'un SOC complet : Wazuh (détection d'intrusion), Grafana + Prometheus (monitoring temps réel), Loki (centralisation des logs).
+* Architecture multi-zones : DMZ, DATA, APP (microservices), ADMINISTRATION — avec surveillance et contrôle des accès.
+
+Système DAB — Distributeur Automatique (2026)
+Monolith | ASP.NET Core 8 | SQL Server | JWT | Docker | xUnit (36 tests)
+* Administration de la base de données SQL Server et déploiement Docker + docker-compose.
+* CI/CD avec GitHub Actions, gestion des sauvegardes de code source.
+
+FORMATION
+ESPRIM Monastir — Diplôme d'ingénieur, Cybersécurité & Cloud Computing (2024 — en cours)
+ISIMa Mahdia — Licence, Génie Logiciel (2021 — 2024) — mention très bien
+Lycée Tahar Sfar, Mahdia — Baccalauréat Mathématiques (2021 — 2022)
+
+CERTIFICATIONS
+Certified Red Team (CRTOM) | Certified Phishing Prevention Specialist (CPPS) | Cybersecurity Career Starter (CCSC) | Nessus Vulnerability Scanning | Building AI Agents (DeepLearning.AI)
+
+LANGUES
+Arabe — maternel | Français — bilingue | Anglais — bilingue

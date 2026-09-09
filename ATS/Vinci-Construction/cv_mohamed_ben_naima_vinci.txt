@@ -1,0 +1,54 @@
+Mohamed Ben Naima
+Étudiant-Ingénieur Cybersécurité — GRC & Audit
+
+Tunisie | +216 25 577 542 | Medbennaima2021@gmail.com | https://linkedin.com/in/mohamed-ben-naima | https://github.com/Mohamed-Ben-Naima
+
+PROFIL
+Étudiant-ingénieur en cybersécurité et cloud computing (ESPRIM), je développe des compétences concrètes en sécurité des systèmes d'information à travers des projets techniques : architecture réseau sécurisée, monitoring SOC, développement d'applications sécurisées et administration d'infrastructures. Ce bagage technique me donne une compréhension des enjeux de gouvernance, de gestion des risques et de conformité que je souhaite approfondir en milieu professionnel.
+
+COMPÉTENCES
+Sécurité & Gouvernance: Politiques de sécurité, gestion des accès (RBAC), classification des données, gestion des incidents, sensibilité aux référentiels ISO 27001/27005
+Réseau & Infrastructure: TCP/IP, DNS, DHCP, VLAN, DMZ, pare-feu pfSense, switches Cisco, architecture multi-zones, Active Directory, GPO
+Monitoring & Détection: Wazuh (SIEM, détection d'intrusion), Grafana (dashboards), Prometheus (métriques), analyse de logs
+Cloud & Virtualisation: Azure (VM, RDP), OpenStack, GNS3, VMware, VirtualBox
+Développement Sécurisé: OWASP Top 10, JWT, OAuth2, Keycloak (IAM), API Security, Docker, CI/CD (GitLab, GitHub Actions)
+Systèmes: Windows Server (AD, DNS, DHCP, GPO), Linux (Ubuntu, CentOS, AlmaLinux), RAID, stockage
+
+EXPÉRIENCE
+
+Stage Ingénieur — Développeur Full Stack
+Polymaille (Industrie Textile), Ksar Hellal
+Juil 2026 — Sep 2026
+* Administration de l'infrastructure Windows Server : gestion des comptes utilisateurs, droits d'accès et politiques de sécurité via Keycloak (IAM) et RBAC.
+* Mise en place de Docker Compose pour le conteneurisation de l'application, avec configuration des environnements de production.
+* Participation à la conception du modèle de données et de l'architecture modulith (Spring Boot Modulith) — 5 modules avec séparation des responsabilités.
+
+Développeur Full Stack / Backend / Mobile
+Alfa Computers, Mahdia
+Mar 2024 — Août 2025 (3 stages)
+* Administration de serveurs Linux (Ubuntu) pour le déploiement d'APIs sécurisées.
+* Mise en place de pipelines CI/CD avec Docker et GitLab CI/CD.
+
+PROJETS
+
+Infrastructure Bancaire Sécurisée (2026) — 18/20, Nominé Bal des Projets ESPRIT
+* Conception d'une architecture réseau complète sur GNS3 : switches Cisco, pare-feu pfSense, segmentation VLAN, DMZ, DNS, DHCP — administration de services Active Directory sur Windows Server.
+* Mise en place d'un SOC : Wazuh (détection), Grafana + Prometheus (monitoring), Loki (logs) — surveillance des performances et détection d'anomalies.
+* Scénarios de risques : identification des menaces, analyse des vulnérabilités, mise en place de contre-mesures (pare-feu, segmentation, chiffrement), plan de réponse aux incidents.
+
+ERP Modulith — Microtiss Confect (2026) — Stage d'ingénieur — 3 mois
+* Conception et développement d'un ERP en Spring Boot Modulith — modélisation des données, diagrammes de classes, planification des sprints, déploiement sur Windows Server.
+* Sécurisation : Spring Security + OAuth2 (JWT), Keycloak (IAM), gestion des rôles et permissions RBAC.
+
+Hermes Suite — Plateforme E-commerce (2024 — présent) — Mention Très Bien
+* Plateforme e-commerce complète — catalogue, panier, paiement, commandes, factures PDF — en cours de transformation SaaS multi-tenant.
+
+FORMATION
+ESPRIM Monastir — Diplôme d'ingénieur, Cybersécurité & Cloud Computing (2024 — en cours)
+ISIMa Mahdia — Licence, Génie Logiciel (2021 — 2024) — mention très bien
+
+CERTIFICATIONS
+Certified Red Team (CRTOM) | Certified Phishing Prevention Specialist (CPPS) | Cybersecurity Career Starter (CCSC) | Nessus Vulnerability Scanning | Building AI Agents (DeepLearning.AI)
+
+LANGUES
+Arabe — maternel | Français — bilingue | Anglais — bilingue

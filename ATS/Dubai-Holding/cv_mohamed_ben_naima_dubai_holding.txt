@@ -1,0 +1,54 @@
+Mohamed Ben Naima
+Recent Graduate | Cybersecurity & Cloud Engineering
+
+Tunisia | +216 25 577 542 | Medbennaima2021@gmail.com | https://linkedin.com/in/mohamed-ben-naima | https://github.com/Mohamed-Ben-Naima
+https://mohamed-ben-naima.netlify.app
+
+PROFILE
+Engineering student in Cybersecurity & Cloud Computing (ESPRIM), combining strong technical skills with leadership, cross-functional project experience and an entrepreneurial mindset. Led teams, built production-grade software systems, and delivered projects from concept to deployment. Bilingual in French and English with a genuine interest in international business, technology strategy and operational excellence.
+
+EDUCATION
+ESPRIM Monastir — Engineering Degree, Cybersecurity & Cloud Computing (2024 – present) — GPA: 3.05/4.0
+ISIMa Mahdia — Bachelor's Degree, Software Engineering (2021 – 2024) — Graduated with Highest Honours
+Lycée Tahar Sfar, Mahdia — Baccalauréat in Mathematics (2021 – 2022)
+
+EXPERIENCE
+
+Engineering Intern — Full Stack Developer
+Polymaille (Textile Industry), Ksar Hellal, Tunisia
+Jul 2026 – Sep 2026
+* Built from scratch a modular ERP system (Spring Boot Modulith) covering Production, Purchasing, Stock, Sales and Security — conceived, planned, developed and deployed independently with one teammate.
+* Implemented REST API architecture with OAuth2/JWT authentication and Keycloak IAM, ensuring role-based access control across all modules.
+* Containerized the full stack with Docker Compose (Keycloak, MySQL, Redis), set up caching strategies and wrote integration tests with Testcontainers.
+
+Full Stack / Backend / Mobile Developer
+Alfa Computers, Mahdia, Tunisia
+Mar 2024 – Aug 2025 (3 internships)
+* Led a team of 3 to deliver a real-time mobile application (React Native) connected to IoT sensors — coordinated sprints, delegated tasks and presented demos.
+* Delivered a complete e-commerce platform (React, Node.js, MongoDB) with Docker containerization and CI/CD pipeline.
+* Developed backend APIs for a trading platform using Python/FastAPI with JWT, OAuth2 and Swagger documentation.
+
+PROJECTS
+
+Secure Banking Infrastructure (2026) — Scored 18/20, Nominated at ESPRIT Projects Ball
+* Designed and deployed a full network security architecture: Cisco switches, pfSense firewall, VLAN segmentation, DMZ, TCP/IP routing.
+* Built a complete SOC environment on GNS3/OpenStack: Wazuh (intrusion detection), Grafana + Prometheus (real-time monitoring), Loki (log centralization).
+* Delivered a microservices banking application with observability, CI/CD and KYC module (JWT/RBAC).
+
+Hermes Suite — E-commerce Platform (2024 – present) — Graduated with Highest Honours
+* Built a full e-commerce platform (React, Node.js, MongoDB) with catalogue, cart, checkout, invoicing — currently transforming into a SaaS multi-tenant solution.
+
+SKILLS
+Technical: Python, Java, JavaScript/TypeScript, React, Node.js, Spring Boot, FastAPI, ASP.NET Core, Docker, Kubernetes, CI/CD, MySQL, PostgreSQL, MongoDB
+Leadership & Strategy: Team management, sprint planning, stakeholder communication, requirements analysis, project scoping
+Languages: Arabic (native), French (bilingual), English (bilingual), German (basic)
+
+CERTIFICATIONS
+Certified Red Team (CRTOM) | Certified Phishing Prevention Specialist (CPPS) | Cybersecurity Career Starter (CCSC) | Building AI Agents (DeepLearning.AI) | n8n Workflow Automation
+
+ACTIVITIES & INTERESTS
+Hunters Club — Active member of a competitive team that hunts down CTFs, hackathons and tech competitions across Tunisia and online. Co-organised workshops (e.g. n8n workflow automation).
+DevTalents — Participated in technical workshops focused on software development and emerging technologies.
+Cybersphere Congress 7.0 — Attended one of Tunisia's largest cybersecurity congresses, engaging with industry professionals and exploring current trends.
+Chess — Regular player, developed strategic thinking and analytical problem-solving skills.
+Gym — Committed to fitness and discipline, maintaining a consistent training routine.

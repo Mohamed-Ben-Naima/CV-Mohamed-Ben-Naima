@@ -1,0 +1,64 @@
+Mohamed Ben Naima
+Analyste SOC Junior | Cybersécurité & Cloud
+
+Tunisie | +216 25 577 542 | Medbennaima2021@gmail.com | https://linkedin.com/in/mohamed-ben-naima | https://github.com/Mohamed-Ben-Naima
+https://mohamed-ben-naima.netlify.app
+
+PROFIL
+Étudiant-ingénieur en cybersécurité et cloud computing (ESPRIM), avec une expérience pratique en SOC : surveillance, détection d'incidents, analyse de logs et réponse aux alertes via Wazuh, Grafana, Prometheus et Loki. Compétences en développement Python (FastAPI) et automatisation de pipelines CI/CD. Sensibilisé aux principes DevSecOps et aux outils de monitoring réseau.
+
+COMPÉTENCES TECHNIQUES
+SOC / SIEM: Wazuh (détection, alertes, règles), Grafana (dashboards, visualisation), Prometheus (métriques), Loki (logs), analyse de logs réseau
+Cybersécurité: OWASP Top 10, JWT, OAuth2, RBAC, Keycloak, pare-feu pfSense, API Security
+Réseau: Switches Cisco, routeurs, segmentation VLAN, DMZ, TCP/IP, DNS/DHCP, pare-feu pfSense, architecture réseau sécurisée, surveillance réseau
+Python / IA: FastAPI, automatisation de scripts, analyse de données, notion IA/ML (Building AI Agents - DeepLearning.AI)
+DevSecOps: Docker, Kubernetes, Git, GitHub Actions, GitLab CI/CD, OpenStack, GNS3
+Cloud: OpenStack (déploiement privé), GNS3 (simulation réseau), AWS
+
+EXPÉRIENCE
+
+Stage Ingénieur - Développeur Full Stack
+Polymaille (Industrie Textile), Ksar Hellal, Tunisie
+Jul 2026 - Sep 2026 (présent)
+* Conception et développement from scratch d'un ERP modulith (Spring Boot Modulith + MySQL) — 5 modules : Production, Purchasing, Stock, Ventes, Security.
+* Mise en place de l'architecture modulith : séparation des modules, communication événementielle, API REST avec SpringDoc/OpenAPI (Swagger).
+* Sécurisation avec Spring Security + OAuth2 (JWT) et Keycloak (IAM) — gestion des rôles et permissions RBAC.
+* Containerisation Docker + Docker Compose (Keycloak, MySQL, Redis), monitoring avec Redis + Caffeine (cache).
+* Tests d'intégration avec Testcontainers (MySQL) et JUnit 5.
+Compétences: Java 17, Spring Boot 4.1, Spring Modulith, Spring Security, OAuth2, Keycloak, MySQL, Docker, Redis, MapStruct, SpringDoc
+
+Développeur Full Stack / Backend / Mobile
+Alfa Computers, Mahdia, Tunisie
+Mar 2024 - Août 2025 (3 stages: PFE, IoT mobile, backend)
+* Développement du backend de The Hive (plateforme de trading) : FastAPI, JWT + OAuth2, Swagger.
+* Livraison d'une plateforme e-commerce MERN complète avec Docker et CI/CD.
+Compétences: Python, FastAPI, React, Node.js, Docker, GitLab CI/CD
+
+PROJETS
+
+Infrastructure Bancaire Sécurisée (2026) - 18/20, Nominé Bal des Projets ESPRIT
+GNS3 | OpenStack | Wazuh | Grafana | Prometheus | Loki | pfSense | Cisco
+* Conception d'une architecture réseau sécurisée : switch Cisco, pare-feu pfSense, segmentation VLAN, routage TCP/IP.
+* Déploiement SOC complet sur GNS3/OpenStack : Wazuh (détection d'intrusion), Grafana + Prometheus (métriques temps réel), Loki (centralisation des logs).
+* Pare-feu pfSense configuré pour le filtrage réseau et la segmentation des zones de sécurité.
+* Application bancaire microservices avec observabilité SOC et module KYC JWT/RBAC.
+
+Système DAB - Distributeur Automatique (2026)
+Monolith | ASP.NET Core 8 | SQL Server | JWT | Docker | xUnit (36 tests)
+* Application bancaire monolithique : Web API (JWT, RFC-7807, Serilog) + portail MVC.
+* 36 tests xUnit, CI/CD GitHub Actions, déploiement Docker + docker-compose.
+
+Hermes Suite - Plateforme E-commerce (2024 - présent) - Mention Très Bien
+Monolith | React | Node.js | Express | MongoDB Atlas
+* Plateforme e-commerce complète — catalogue, panier, paiement, commandes, factures PDF.
+
+FORMATION
+ESPRIM Monastir - Diplôme d'ingénieur, Cybersécurité & Cloud Computing (2024 - présent)
+ISIMa Mahdia - Licence, Génie Logiciel (2021 - 2024) - mention très bien
+Lycée Tahar Sfar, Mahdia - Baccalauréat Mathématiques (2021 - 2022)
+
+CERTIFICATIONS
+Certified Red Team (CRTOM) | Certified Phishing Prevention Specialist (CPPS) | Cybersecurity Career Starter (CCSC) | Nessus Vulnerability Scanning | Building AI Agents (DeepLearning.AI) | n8n Workflow Automation
+
+LANGUES
+Arabe - maternel | Français - bilingue | Anglais - bilingue | Allemand - notions
