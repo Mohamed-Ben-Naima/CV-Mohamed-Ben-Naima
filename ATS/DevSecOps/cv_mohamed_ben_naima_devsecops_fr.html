@@ -1,108 +1,47 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-<meta charset="UTF-8">
+<!DOCTYPE html><html lang="fr"><head><meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>CV — Mohamed Ben Naima — DevSecOps (ATS)</title>
-<style>
-  * { margin: 0; padding: 0; box-sizing: border-box; }
-  @page { size: A4; margin: 0; }
-  html, body { background: #ffffff; }
-  body { font-family: Arial, Helvetica, sans-serif; color: #000000; }
-  .page { width: 210mm; height: 297mm; margin: 0 auto; padding: 7mm 12mm; font-size: 8.6pt; line-height: 1.13; }
-  h1 { font-size: 15pt; margin-bottom: 1px; }
-  .subtitle { font-size: 10pt; font-weight: bold; margin-bottom: 3px; }
-  .contact { font-size: 8.8pt; margin-bottom: 4px; }
-  h2 { font-size: 9.8pt; text-transform: uppercase; border-bottom: 1px solid #000; margin: 4px 0 2px; letter-spacing: 0.6px; }
-  p { margin-bottom: 2px; }
-  ul { margin: 1.5px 0 2px 13px; }
-  li { margin-bottom: 1.3px; }
-  .job { margin-bottom: 3px; }
-  .job-head { font-weight: bold; }
-  .job-date { font-weight: normal; }
-  .proj { margin-bottom: 3px; }
-  .proj-name { font-weight: bold; }
-  .stack { font-size: 8.4pt; color: #333; font-weight: normal; }
-  .edu { margin-bottom: 2px; }
-</style>
-</head>
-<body>
-<div class="page">
-  <h1>Mohamed Ben Naima</h1>
-  <div class="subtitle">Élève ingénieur DevSecOps &amp; Sécurité Cloud | Stage de fin d'études (PFE) à partir de janvier 2027</div>
-  <div class="contact">Tunisie | +216 25 577 542 | Medbennaima2021@gmail.com | <a href="https://www.linkedin.com/in/mohamed-ben-naima/">linkedin.com/in/mohamed-ben-naima</a> | <a href="https://github.com/Mohamed-Ben-Naima">github.com/Mohamed-Ben-Naima</a> | <a href="https://mohamed-ben-naima.netlify.app/">mohamed-ben-naima.netlify.app</a> | Français (bilingue) | Anglais (bilingue)</div>
+<title>CV — Mohamed Ben Naima — DevSecOps (ATS)</title><style>
+* { margin:0; padding:0; box-sizing:border-box; }
+@page { size:A4; margin:0; }
+html, body { background:#fff; }
+body { font-family: Arial, Helvetica, sans-serif; color:#1d2733; }
+a { color:inherit; text-decoration:none; }
+p { margin-bottom:0.9mm; }
+ul { margin:0.6mm 0 0.4mm 4.6mm; }
+li { margin-bottom:0.5mm; }
+li::marker { color: var(--accent); }
+.entry { margin-bottom:1.5mm; }
+.e-head { display:flex; justify-content:space-between; align-items:baseline; gap:4mm; }
+.e-title { font-weight:bold; color:var(--navy); }
+.e-when { white-space:nowrap; color:#55697c; font-size:0.94em; }
+.e-sub { color:#3b4b5c; font-style:italic; margin-top:0.2mm; }
+.e-stack { color:#55697c; font-size:0.93em; margin-top:0.2mm; }
+span.e-stack { margin-left:1mm; }
+.entry.minor, .e-line { margin-top:0.1mm; }
+.e-note { color:#55697c; font-weight:normal; }
+.edu { margin-bottom:0.8mm; }
+b { color:var(--navy); }
 
-  <h2>Profil</h2>
-  <p>Élève ingénieur en Cybersécurité &amp; Cloud Computing (ESPRIM, major de promotion), j'intègre la sécurité dans tout le cycle de vie logiciel plutôt qu'à la fin. Je sécurise des back-ends Spring Boot contre l'OWASP Top 10 (Spring Security, JWT, BCrypt, RBAC, validation des entrées, piste d'audit), j'automatise la livraison en CI/CD (GitHub Actions, GitLab CI/CD) avec gestion des secrets, et je déploie sur Docker et cloud hybride (OpenStack + AWS) derrière des réseaux segmentés (pfSense, DMZ, bastion) supervisés par un SIEM Wazuh. J'aligne les contrôles sur l'ISO/IEC 27001:2022 (Annexe A). Joueur de CTF et membre de Securinets. Je recherche un PFE DevSecOps / sécurité cloud à partir de janvier 2027.</p>
-
-  <h2>Compétences techniques</h2>
-  <p><b>Sécurité applicative :</b> OWASP Top 10, développement sécurisé, Spring Security, JWT, OAuth2, OpenID Connect, BCrypt, RBAC / moindre privilège, validation des entrées, journalisation d'audit</p>
-  <p><b>Gestion des identités et des accès (IAM) :</b> Keycloak (SSO, OIDC), Active Directory, Kerberos</p>
-  <p><b>CI/CD &amp; DevOps :</b> GitHub Actions, GitLab CI/CD, gestion des secrets (GitHub Secrets, clés SSH), Docker, Nginx, Kubernetes, Git</p>
-  <p><b>Cloud :</b> AWS (EC2), cloud privé OpenStack, déploiement cloud hybride</p>
-  <p><b>Sécurité réseau :</b> pare-feux pfSense, DMZ, segmentation réseau, bastion, commutation et routage Cisco / Nexus, VLAN, DNS/DHCP, GNS3</p>
-  <p><b>Supervision &amp; SIEM :</b> Wazuh (agents, collecte centralisée des logs), Grafana, Prometheus, Loki, Wireshark</p>
-  <p><b>Normes &amp; référentiels :</b> OWASP Top 10, ISO/IEC 27001:2022 (contrôles de l'Annexe A), défense en profondeur, moindre privilège</p>
-  <p><b>Langages &amp; stack :</b> Java, Python, JavaScript/TypeScript, SQL | Spring Boot, FastAPI, Node.js/Express, Angular, React | PostgreSQL, MySQL, MongoDB, Kafka | Ubuntu, Kali Linux, Windows Server</p>
-
-  <h2>Expérience professionnelle</h2>
-
-  <div class="job">
-    <div class="job-head">Stagiaire ingénieur logiciel — Back-end sécurisé (ERP), Polymaille (industrie textile) <span class="job-date">| Ksar Hellal, Tunisie · juil. – sept. 2026</span></div>
-    <ul>
-      <li><b>Développement d'un ERP complet remplaçant un système existant</b>, en Spring Boot Modulith avec 4 modules métier (achats, stock, production, ventes) : commandes fournisseurs, circuit de validation, bons de livraison, factures et paiements, déployé sur Windows Server.</li>
-      <li><b>Authentification et autorisation avec Spring Security :</b> filtre JWT stateless, hachage des mots de passe en BCrypt et 5 rôles appliqués par RBAC au niveau des méthodes (@PreAuthorize) selon le moindre privilège, contre OWASP A01 (contrôle d'accès défaillant) et A07 (défauts d'authentification) ; aligné ISO 27001 A.5.15 / A.8.5.</li>
-      <li><b>Prévention des injections (OWASP A03)</b> par Bean Validation et requêtes JPA paramétrées, et <b>piste d'audit persistée</b> (qui a validé quoi, et quand) sur les commandes, factures et paiements pour la traçabilité et la non-répudiation (OWASP A09, ISO 27001 A.8.15).</li>
-      <li><b>Cadrage de chaque module avec le responsable métier</b> et validation avec les utilisateurs avant livraison.</li>
-    </ul>
-  </div>
-
-  <div class="job">
-    <div class="job-head">Développeur Full-Stack / Back-end, Alfa Computers <span class="job-date">| Mahdia, Tunisie · mars 2024 – août 2025 (3 stages)</span></div>
-    <ul>
-      <li><b>Back-end de la plateforme de trading « The Hive »</b> avec endpoints REST entièrement authentifiés (FastAPI, JWT + OAuth2), documentés en OpenAPI/Swagger et testés avec Postman.</li>
-      <li><b>Plateforme e-commerce MERN réalisée seul</b> (React, Node.js, MongoDB) avec connexion JWT, conteneurisée avec Docker et déployée automatiquement via un pipeline GitLab CI/CD vers Render.</li>
-      <li><b>Encadrement d'une équipe de 3</b> pour une application domotique (React Native + Node.js) diffusant en temps réel les données de capteurs Arduino.</li>
-    </ul>
-  </div>
-
-  <h2>Projets</h2>
-
-  <div class="proj">
-    <div class="proj-name">Infrastructure bancaire sécurisée — équipe de 6 <span class="stack">(2026) — GNS3 · Cisco Nexus · pfSense · Wazuh · Keycloak · OpenStack · AWS · GitHub Actions · Spring Boot · Kafka</span></div>
-    <ul>
-      <li><b>Conception d'un réseau en défense en profondeur sous GNS3 avec 5 zones de sécurité</b> (DMZ, administration, front-end, back-end, base de données) : switchs Cisco Nexus, routeurs, pare-feux pfSense, bastion pour l'accès d'administration, reverse proxy Nginx, DNS/DHCP (ISO 27001 A.8.20 / A.8.22).</li>
-      <li><b>Déploiement d'un SIEM centralisé :</b> un agent Wazuh sur chaque machine, logs remontés via un collecteur vers le serveur central pour la supervision de sécurité (ISO 27001 A.8.15 / A.8.16).</li>
-      <li><b>Automatisation du déploiement avec GitHub Actions</b> vers un cloud hybride (OpenStack intégré à GNS3 + AWS) : le pipeline compile le JAR Spring Boot, la VM AWS le récupère en SSH avec des clés stockées dans GitHub Secrets, supprimant toutes les étapes manuelles de build et de déploiement.</li>
-      <li><b>Responsable du module KYC</b> d'une application bancaire de 7 microservices (une base par service, événements Kafka) sécurisée par Keycloak SSO (OpenID Connect) et RBAC. <b>Nominé, ESPRIT Projects Ball.</b></li>
-    </ul>
-  </div>
-
-  <div class="proj">
-    <div class="proj-name">Hermes Suite — plateforme e-commerce (MERN) <span class="stack">(2024 – aujourd'hui) — React · Node.js · MongoDB Atlas · Docker · Render</span></div>
-    <p>Plateforme e-commerce complète (catalogue, panier, paiement, commandes, factures PDF) avec authentification JWT, en cours d'évolution vers un SaaS multi-tenant.</p>
-  </div>
-
-  <div class="proj">
-    <div class="proj-name">Lab Windows Server &amp; services réseau <span class="stack">(2026) — Windows Server · Active Directory · Kerberos</span></div>
-    <p>Configuration des rôles FTP, DNS et DHCP avec authentification Kerberos et permissions de fichiers granulaires.</p>
-  </div>
-
-  <h2>Formation</h2>
-  <div class="edu"><b>ESPRIM Monastir</b> — Cycle ingénieur, Cybersécurité &amp; Cloud Computing <span class="stack">(2024 – aujourd'hui) · major de promotion</span></div>
-  <div class="edu"><b>ISIMa Mahdia</b> — Licence en génie logiciel <span class="stack">(2021 – 2024) · avec félicitations du jury</span></div>
-
-  <h2>Certifications</h2>
-  <p>CLLMSP &amp; CRTOM (Red Team Leaders, 2026) | Cisco CCNA 200-301 (en cours) | Full-Stack MERN (100 h) | Building AI Agents (DeepLearning.AI)</p>
-
-  <h2>Langues</h2>
-  <p><b>Arabe</b> — langue maternelle | <b>Français</b> — bilingue | <b>Anglais</b> — bilingue | <b>Allemand</b> — notions</p>
-
-  <h2>Communauté sécurité</h2>
-  <ul>
-    <li>Membre de <b>Securinets</b> ; CTF sur TryHackMe, picoCTF et compétitions tunisiennes. Cofondateur du <b>Hunters Club</b> (20+ membres) : 2e et 4e places au CTF Polytech Sousse ; ambassadeur du CyberSphere Congress (7e édition).</li>
-    <li>Responsable du comité Cyber &amp; Cloud chez <b>DevTalents</b> (30+ membres), organisation d'une session de préparation LPIC-1. <b>2e place</b>, hackathon Clean &amp; Green 2025.</li>
-  </ul>
-</div>
-</body>
-</html>
+:root { --navy:#123a5c; --accent:#123a5c; }
+.page { width:210mm; height:297mm; margin:0 auto; padding:7mm 12mm 5.5mm; font-size:8.3pt; line-height:1.15; }
+h1 { font-size:18pt; color:var(--navy); letter-spacing:0.3px; }
+.role { font-size:10.5pt; font-weight:bold; margin-top:0.6mm; }
+.avail { font-size:9pt; color:#3b4b5c; margin-top:0.4mm; }
+.contact { font-size:8.3pt; margin-top:1.4mm; padding-bottom:1.6mm; border-bottom:2px solid var(--navy); }
+h2 { font-size:9.6pt; text-transform:uppercase; letter-spacing:1px; color:var(--navy); margin:2.1mm 0 1mm;
+     border-bottom:0.8px solid #9fb0c0; padding-bottom:0.5mm; }
+.skill { margin-bottom:0.6mm; }
+</style></head><body><div class="page">
+<h1>Mohamed Ben Naima</h1>
+<div class="role">Élève ingénieur DevSecOps &amp; Sécurité Cloud</div>
+<div class="avail">Stage de fin d'études (PFE) · disponible dès janvier 2027</div>
+<div class="contact">Tunisie | +216 25 577 542 | <a href="mailto:Medbennaima2021@gmail.com">Medbennaima2021@gmail.com</a> | <a href="https://www.linkedin.com/in/mohamed-ben-naima/">linkedin.com/in/mohamed-ben-naima</a> | <a href="https://github.com/Mohamed-Ben-Naima">github.com/Mohamed-Ben-Naima</a> | <a href="https://mohamed-ben-naima.netlify.app/">mohamed-ben-naima.netlify.app</a> | Français (bilingue) · Anglais (bilingue)</div>
+<h2>Profil</h2><p>Élève ingénieur en Cybersécurité &amp; Cloud Computing (major de promotion), j'intègre la sécurité tout au long du cycle de vie logiciel. Je sécurise des back-ends Spring Boot contre l'<b>OWASP Top 10</b>, j'automatise la livraison en <b>CI/CD</b> avec gestion des secrets, et je déploie sur <b>Docker, Kubernetes et cloud hybride (OpenStack + AWS)</b> derrière des réseaux segmentés supervisés par un <b>SIEM Wazuh</b>, avec des contrôles alignés sur l'<b>ISO/IEC 27001:2022</b>. Membre de Securinets et joueur de CTF.</p>
+<h2>Formation</h2><p class="edu"><b>ESPRIM Monastir</b>, Cycle ingénieur, Cybersécurité &amp; Cloud Computing <span class="e-note">(2024 – 2027) · Major de promotion</span></p><p class="edu"><b>ISIMa Mahdia</b>, Licence en génie logiciel <span class="e-note">(2021 – 2024) · Félicitations du jury</span></p>
+<h2>Compétences techniques</h2><p class="skill"><b>AppSec &amp; normes:</b> OWASP Top 10, ISO/IEC 27001:2022 (Annexe A), développement sécurisé, Spring Security, JWT, OAuth2, OpenID Connect, BCrypt, RBAC / moindre privilège, validation des entrées, audit logging</p><p class="skill"><b>CI/CD &amp; automatisation:</b> GitHub Actions, GitLab CI/CD, gestion des secrets (GitHub Secrets, clés SSH), scripts Bash, Git</p><p class="skill"><b>Conteneurs &amp; cloud:</b> Docker, Kubernetes, Nginx, AWS (EC2), cloud privé OpenStack, déploiement cloud hybride</p><p class="skill"><b>Identités &amp; accès (IAM):</b> Keycloak (SSO, OIDC), Active Directory, Kerberos</p><p class="skill"><b>Sécurité réseau:</b> pare-feux pfSense, DMZ, segmentation réseau, bastion, commutation et routage Cisco / Nexus, VLAN, DNS/DHCP, GNS3</p><p class="skill"><b>Supervision &amp; SIEM:</b> Wazuh (agents, collecte centralisée des logs), Grafana, Prometheus, Loki, Wireshark</p><p class="skill"><b>Langages &amp; stack:</b> Java, Python, Bash, JavaScript/TypeScript, SQL · Spring Boot, FastAPI, Node.js, Angular, React · PostgreSQL, MySQL, MongoDB, Kafka · Ubuntu, Kali Linux, Windows Server</p>
+<h2>Expérience professionnelle</h2><div class="entry"><div class="e-head"><span class="e-title">Stagiaire ingénieur logiciel, back-end sécurisé (ERP)</span><span class="e-when">juil. – sept. 2026</span></div><div class="e-sub">Polymaille (industrie textile) · Ksar Hellal, Tunisie</div><ul><li><b>ERP complet remplaçant un système existant</b>, en Spring Boot Modulith avec 4 modules métier (achats, stock, production, ventes) : commandes fournisseurs, circuit de validation, bons de livraison, factures et paiements ; modules cadrés avec le métier et validés par les utilisateurs.</li><li><b>Authentification et autorisation avec Spring Security :</b> filtre JWT stateless, hachage BCrypt et 5 rôles appliqués par RBAC au niveau des méthodes (@PreAuthorize) selon le moindre privilège, contre OWASP A01 (contrôle d'accès défaillant) et A07 (défauts d'authentification) ; aligné ISO 27001 A.5.15 / A.8.5.</li><li><b>Prévention des injections (OWASP A03)</b> par Bean Validation et requêtes JPA paramétrées, et <b>piste d'audit persistée</b> (qui a validé quoi, et quand) sur commandes, factures et paiements pour la traçabilité et la non-répudiation (OWASP A09, ISO 27001 A.8.15).</li></ul></div><div class="entry"><div class="e-head"><span class="e-title">Développeur Full-Stack / Back-end (3 stages)</span><span class="e-when">mars 2024 – août 2025</span></div><div class="e-sub">Alfa Computers · Mahdia, Tunisie</div><ul><li><b>Back-end de la plateforme de trading « The Hive »</b> avec endpoints REST entièrement authentifiés (FastAPI, JWT + OAuth2), documentés en OpenAPI/Swagger et testés avec Postman.</li><li><b>Plateforme e-commerce MERN réalisée seul</b>, conteneurisée avec Docker et déployée automatiquement via GitLab CI/CD vers Render ; <b>encadrement d'une équipe de 3</b> sur une application domotique IoT.</li></ul></div>
+<h2>Projets</h2><div class="entry"><div class="e-head"><span class="e-title">Infrastructure bancaire sécurisée <span class="e-note">(équipe de 6)</span></span><span class="e-when">2026</span></div><div class="e-stack">GNS3 · Cisco Nexus · pfSense · Wazuh · Keycloak · OpenStack · AWS · GitHub Actions · Spring Boot · Kafka</div><ul><li><b>Conception d'un réseau en défense en profondeur sous GNS3 avec 5 zones de sécurité</b> (DMZ, administration, front-end, back-end, base de données) : switchs Cisco Nexus, routeurs, pare-feux pfSense, bastion d'administration, reverse proxy Nginx, DNS/DHCP (ISO 27001 A.8.20 / A.8.22).</li><li><b>Déploiement d'un SIEM centralisé :</b> un agent Wazuh sur chaque machine, logs remontés via un collecteur vers le serveur central (ISO 27001 A.8.15 / A.8.16).</li><li><b>Automatisation du déploiement avec GitHub Actions</b> vers un cloud hybride (OpenStack dans GNS3 + AWS) : le pipeline compile le JAR Spring Boot, récupéré en SSH par la VM AWS avec des clés dans GitHub Secrets ; plus aucune étape manuelle.</li><li><b>Responsable du module KYC</b> d'une application bancaire de 7 microservices (une base par service, événements Kafka) sécurisée par Keycloak SSO (OpenID Connect) et RBAC. <b>Nominé, ESPRIT Projects Ball.</b></li></ul></div><div class="entry"><div class="e-head"><span class="e-title">Hermes Suite, plateforme e-commerce (MERN)</span><span class="e-when">2024 – aujourd'hui</span></div><div class="e-line">E-commerce sécurisé par JWT (catalogue, panier, commandes, factures PDF), en évolution vers un SaaS multi-tenant. <span class="e-stack">React · Node.js · MongoDB Atlas · Docker · Render</span></div></div><div class="entry"><div class="e-head"><span class="e-title">Lab Windows Server &amp; services réseau</span><span class="e-when">2026</span></div><div class="e-line">Rôles FTP, DNS et DHCP avec authentification Kerberos et permissions de fichiers granulaires. <span class="e-stack">Windows Server · Active Directory · Kerberos</span></div></div>
+<h2>Certifications</h2><p>CLLMSP &amp; CRTOM (Red Team Leaders, 2026) · Cisco CCNA 200-301 (en cours) · Full-Stack MERN (100 h) · Building AI Agents (DeepLearning.AI)</p>
+<h2>Communauté sécurité</h2><ul><li>Membre de <b>Securinets</b> ; CTF sur TryHackMe, picoCTF et compétitions tunisiennes. Cofondateur du <b>Hunters Club</b> (20+ membres) : 2e et 4e places au CTF Polytech Sousse ; ambassadeur du CyberSphere Congress (7e éd.).</li><li>Responsable du comité Cyber &amp; Cloud chez <b>DevTalents</b> (30+ membres) · <b>2e place</b>, hackathon Clean &amp; Green 2025.</li></ul>
+<h2>Langues</h2><p><b>Arabe</b> maternelle · <b>Français</b> bilingue · <b>Anglais</b> bilingue · <b>Allemand</b> notions</p>
+</div></body></html>
