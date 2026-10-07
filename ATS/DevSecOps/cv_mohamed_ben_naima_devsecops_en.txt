@@ -1,0 +1,78 @@
+Mohamed Ben Naima
+DevSecOps & Cloud Security Engineering Student | End-of-Studies Internship (PFE) from January 2027
+Tunisia | +216 25 577 542 | Medbennaima2021@gmail.com | linkedin.com/in/mohamed-ben-naima | github.com/Mohamed-Ben-Naima
+| mohamed-ben-naima.netlify.app | English (bilingual) | French (bilingual)
+
+PROFILE
+Cybersecurity & Cloud Computing engineering student (ESPRIM, top of class) who builds security into the software lifecycle rather than
+adding it at the end. I secure Spring Boot back ends against the OWASP Top 10 (Spring Security, JWT, BCrypt, RBAC, input validation,
+audit trails), automate delivery with CI/CD (GitHub Actions, GitLab CI/CD) and secrets management, and run workloads on Docker and
+hybrid cloud (OpenStack + AWS) behind segmented networks (pfSense, DMZ, bastion host) monitored by a Wazuh SIEM. I align controls
+with ISO/IEC 27001:2022 Annex A. CTF player and Securinets member. Looking for a DevSecOps / cloud security PFE starting January
+2027.
+
+TECHNICAL SKILLS
+Application Security: OWASP Top 10, secure coding, Spring Security, JWT, OAuth2, OpenID Connect, BCrypt, RBAC / least privilege,
+input validation, audit logging
+Identity & Access Management (IAM): Keycloak (SSO, OIDC), Active Directory, Kerberos
+CI/CD & DevOps: GitHub Actions, GitLab CI/CD, secrets management (GitHub Secrets, SSH keys), Docker, Nginx, Kubernetes, Git
+Cloud: AWS (EC2), OpenStack private cloud, hybrid cloud deployment
+Network Security: pfSense firewalls, DMZ, network segmentation, bastion host, Cisco / Nexus switching & routing, VLANs, DNS/DHCP,
+GNS3
+Monitoring & SIEM: Wazuh (agents, centralized log collection), Grafana, Prometheus, Loki, Wireshark
+Standards & Frameworks: OWASP Top 10, ISO/IEC 27001:2022 (Annex A controls), defense in depth, least privilege
+Languages & Stack: Java, Python, JavaScript/TypeScript, SQL | Spring Boot, FastAPI, Node.js/Express, Angular, React | PostgreSQL,
+MySQL, MongoDB, Kafka | Ubuntu, Kali Linux, Windows Server
+
+EXPERIENCE
+Software Engineering Intern — Secure Back-End (ERP), Polymaille (Textile Industry) | Ksar Hellal, Tunisia · Jul – Sep 2026
+Built a full-cycle ERP replacing a legacy system as a Spring Boot Modulith with 4 business modules (purchase, stock, production,
+sales): supplier orders, approval workflow, delivery notes, invoices and payments, deployed on Windows Server.
+Implemented authentication and authorization with Spring Security: stateless JWT filter, BCrypt password hashing, and 5 roles
+enforced with method-level RBAC (@PreAuthorize) under least privilege, addressing OWASP A01 (Broken Access Control) and A07
+(Authentication Failures); aligned with ISO 27001 A.5.15 / A.8.5.
+Prevented injection (OWASP A03) with Bean Validation and parameterized JPA queries, and built a persistent audit trail (who
+approved what, and when) on orders, invoices and payments for traceability and non-repudiation (OWASP A09, ISO 27001 A.8.15).
+Scoped every module with the business lead and validated it with users before delivery.
+Full-Stack / Backend Developer, Alfa Computers | Mahdia, Tunisia · Mar 2024 – Aug 2025 (3 internships)
+Built "The Hive" trading platform backend with fully authenticated REST endpoints (FastAPI, JWT + OAuth2), documented in
+OpenAPI/Swagger and covered by Postman test suites.
+Delivered a MERN e-commerce platform solo (React, Node.js, MongoDB) with JWT login, containerized with Docker and autodeployed through a GitLab CI/CD pipeline to Render.
+Led a 3-person team shipping a smart-home app (React Native + Node.js) streaming live Arduino sensor data.
+
+PROJECTS
+Secured Banking Infrastructure — team of 6 (2026) — GNS3 · Cisco Nexus · pfSense · Wazuh · Keycloak · OpenStack · AWS · GitHub
+Actions · Spring Boot · Kafka
+Designed a defense-in-depth network in GNS3 with 5 security zones (DMZ, administration, front-end, back-end, database): Cisco
+Nexus switches, routers, pfSense firewalls, a bastion host for admin access, Nginx reverse proxy, DNS/DHCP (ISO 27001 A.8.20 /
+A.8.22).
+Deployed a centralized SIEM: a Wazuh agent on every host, with logs forwarded through a collector to the central manager for
+security monitoring (ISO 27001 A.8.15 / A.8.16).
+Automated deployment with GitHub Actions to a hybrid cloud (OpenStack integrated in GNS3 + AWS): pipeline builds the Spring
+Boot JAR, AWS VM pulls it over SSH with keys stored in GitHub Secrets, removing all manual build and deploy steps.
+Owned the KYC module of a 7-microservice banking app (database per service, Kafka eventing) secured with Keycloak SSO (OpenID
+Connect) and RBAC. Nominated, ESPRIT Projects Ball.
+Hermes Suite — E-commerce Platform (MERN) (2024 – present) — React · Node.js · MongoDB Atlas · Docker · Render
+Full e-commerce platform (catalogue, cart, checkout, orders, PDF invoices) with JWT authentication, being matured into a multi-tenant
+SaaS.
+Windows Server & Network Services Lab (2026) — Windows Server · Active Directory · Kerberos
+Configured FTP, DNS and DHCP roles with Kerberos authentication and granular file permissions.
+
+EDUCATION
+ESPRIM Monastir — Engineering Degree, Cybersecurity & Cloud Computing (2024 – present) · top of class
+ISIMa Mahdia — BSc, Software Engineering (2021 – 2024) · with highest honours
+
+CERTIFICATIONS
+CLLMSP & CRTOM (Red Team Leaders, 2026) | Cisco CCNA 200-301 (in progress) | Full-Stack MERN (100h) | Building AI Agents
+(DeepLearning.AI)
+
+LANGUAGES
+Arabic — native | French — bilingual | English — bilingual | German — basic
+
+SECURITY COMMUNITY
+Member of Securinets; CTF player on TryHackMe, picoCTF and Tunisian CTFs. Co-founded Hunters Club (20+ members): 2nd & 4th
+place at Polytech Sousse CTF; ambassador, CyberSphere Congress (7th ed.).
+Led the Cyber & Cloud committee at DevTalents (30+ members), organized an LPIC-1 preparation session. 2nd place, Clean & Green
+hackathon 2025.
+
+

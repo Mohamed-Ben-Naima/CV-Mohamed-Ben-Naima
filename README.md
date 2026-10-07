@@ -9,6 +9,8 @@ Current, print-ready CVs plus the editable sources (HTML) and ATS text versions.
 | French (standard) | — | [`ATS/FR/cv_mohamed_ben_naima_v5.pdf`](ATS/FR/cv_mohamed_ben_naima_v5.pdf) | [`ATS/FR/cv_mohamed_ben_naima_v5.html`](ATS/FR/cv_mohamed_ben_naima_v5.html) |
 | GRC (EN) | — | [`ATS/GRC/cv_mohamed_ben_naima_v5.pdf`](ATS/GRC/cv_mohamed_ben_naima_v5.pdf) | [`ATS/GRC/cv_mohamed_ben_naima_v5.docx`](ATS/GRC/cv_mohamed_ben_naima_v5.docx) |
 | SDE (EN) | — | [`ATS/SDE/cv_mohamed_ben_naima_v5.pdf`](ATS/SDE/cv_mohamed_ben_naima_v5.pdf) | [`ATS/SDE/cv_mohamed_ben_naima_v5.docx`](ATS/SDE/cv_mohamed_ben_naima_v5.docx) |
+| DevSecOps PFE (EN) | — | [`ATS/DevSecOps/cv_mohamed_ben_naima_devsecops_en.pdf`](ATS/DevSecOps/cv_mohamed_ben_naima_devsecops_en.pdf) | [`ATS/DevSecOps/cv_mohamed_ben_naima_devsecops_en.html`](ATS/DevSecOps/cv_mohamed_ben_naima_devsecops_en.html) |
+| DevSecOps PFE (FR) | — | [`ATS/DevSecOps/cv_mohamed_ben_naima_devsecops_fr.pdf`](ATS/DevSecOps/cv_mohamed_ben_naima_devsecops_fr.pdf) | [`ATS/DevSecOps/cv_mohamed_ben_naima_devsecops_fr.html`](ATS/DevSecOps/cv_mohamed_ben_naima_devsecops_fr.html) |
 | Optiver Graduate (EN) | [`Applications/Optiver/cv_mohamed_ben_naima_optiver.pdf`](Applications/Optiver/cv_mohamed_ben_naima_optiver.pdf) | [`ATS/Optiver/cv_mohamed_ben_naima_v5.pdf`](ATS/Optiver/cv_mohamed_ben_naima_v5.pdf) | [`Applications/Optiver/cv_mohamed_ben_naima_optiver.html`](Applications/Optiver/cv_mohamed_ben_naima_optiver.html) |
 | Motorola Java Intern (EN) | — | [`ATS/Motorola/cv_mohamed_ben_naima_v5.pdf`](ATS/Motorola/cv_mohamed_ben_naima_v5.pdf) | [`ATS/Motorola/cv_mohamed_ben_naima_v5.html`](ATS/Motorola/cv_mohamed_ben_naima_v5.html) |
 | Motorola Recruiter (EN) | [`Applications/Motorola/cv_mohamed_ben_naima_motorola.pdf`](Applications/Motorola/cv_mohamed_ben_naima_motorola.pdf) | — | [`Applications/Motorola/cv_mohamed_ben_naima_motorola.html`](Applications/Motorola/cv_mohamed_ben_naima_motorola.html) |
@@ -23,6 +25,7 @@ Current, print-ready CVs plus the editable sources (HTML) and ATS text versions.
 - **`ATS/`** — single-column ATS-friendly versions, one folder per target, each with PDF + HTML + TXT:
   - `EN/` · `FR/` — generic
   - `GRC/` · `SDE/` — role-specific (also add DOCX for portals)
+  - `DevSecOps/` — DevSecOps / cloud security PFE, EN + FR (OWASP Top 10, ISO 27001 mapping)
   - `Optiver/` · `Motorola/` · `Hutchinson/` — company-specific
 - **`Applications/`** — polished, recruiter-facing materials, one folder per company:
   - `Optiver/` — designed two-column CV
